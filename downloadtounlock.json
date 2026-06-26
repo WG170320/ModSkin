@@ -1,3 +1,10 @@
 {
-  "claim_link": "https://temu.com/s/iZBRIVTL721o5n7"
+  "enabled": true,
+  "claim_link": "https://temu.com/s/iZBRIVTL721o5n7",
+  "invite_link": "https://temu.com/s/iZBRIVTL721o5n7",
+  "invite_link_2": "https://temu.com/s/1fJlm1Bufv3uu",
+  "temu_package": "com.einnovation.temu",
+  "wait_seconds": 20,
+  "relock_hours": 5,
+  "relock_enabled": true
 }
