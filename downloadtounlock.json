@@ -11,7 +11,7 @@
   "relock_enabled": true,
   "latest_version": 7,
   "min_version": 4,
-  "force_update": false,
+  "force_update": true,
   "update_url": "https://santoryutoolkit.com/",
   "update_version_name": "1.6",
   "update_message": "New in 1.6 — Revamped Earn page with daily bonus, a leaderboard with profiles, real diamond icons, smoother & lighter performance, and more ways to earn diamonds. Tap update to continue."
