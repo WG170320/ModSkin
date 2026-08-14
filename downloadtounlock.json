@@ -8,7 +8,7 @@
   "wait_accept1": 5,
   "wait_accept2": 5,
   "relock_hours": 2,
-  "relock_enabled": true,
+  "relock_enabled": false,
   "latest_version": 17,
   "min_version": 1,
   "force_update": true,
@@ -18,8 +18,16 @@
   "reverify_link": "",
   "reverify_link_2": "",
   "reverify_link_3": "",
-  "shopee_link": "https://s.shopee.ph/6VM8qqE4F0",
+  "shopee_link": "",
   "shopee_hours": 5,
   "shopee_dwell_secs": 8,
-  "shopee_forced": true
+  "shopee_forced": true,
+  "gearup_link": "https://gearup.onelink.me/Zmq0/zongxotic",
+  "gearup_package": "com.gearup.booster",
+  "promo_code": "WARLITO",
+  "unlock_reward": 50,
+  "gearup_wait_redeem": 8,
+  "gearup_wait_promo": 8,
+  "step2_image_url": "",
+  "step3_image_url": ""
 }
