@@ -29,5 +29,10 @@
   "gearup_wait_redeem": 8,
   "gearup_wait_promo": 8,
   "step2_image_url": "",
-  "step3_image_url": ""
+  "step3_image_url": "",
+  "watch_enabled": true,
+  "watch_link": "https://www.youtube.com/@WarlitoGaming",
+  "watch_dwell_secs": 15,
+  "watch_relock_hours": 2,
+  "watch_forced": true
 }
