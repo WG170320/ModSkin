@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "claim_link": "https://temu.com/s/BPZxxqCydglwg",
-  "invite_link": "https://temu.com/s/BPZxxqCydglwg",
+  "claim_link": "https://temu.com/s/ZbaZrL3aNc1IVqW",
+  "invite_link": "https://temu.com/s/ZbaZrL3aNc1IVqW",
   "invite_link_2": "",
   "temu_package": "com.einnovation.temu",
   "wait_signup": 10,
@@ -36,3 +36,4 @@
   "watch_relock_hours": 2,
   "watch_forced": false
 }
+
