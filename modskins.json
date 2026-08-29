@@ -3600,20 +3600,6 @@
       ]
     },
     {
-      "id": "alucard_rimuru",
-      "name": "Alucard",
-      "category": "Rimuru",
-      "series": "Rimuru",
-      "image": "https://i.pinimg.com/736x/80/e9/a6/80e9a6de84fd88c1a89151c0521fc6dc.jpg",
-      "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alu%20rimuru.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Rimuru",
-        "Alucard"
-      ]
-    },
-    {
       "id": "belerick_iron_golem",
       "name": "Belerick",
       "category": "Iron Golem",
