@@ -110,7 +110,10 @@
           "skin_name": "Duke of Shards",
           "image": "https://liquipedia.net/commons/images/thumb/7/76/Aamon_Duke_of_Shards_Skin.jpg/475px-Aamon_Duke_of_Shards_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/newupsate-skin/raw/main/Aamon%20backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -333,7 +336,10 @@
           "skin_name": "Panda Warrior",
           "image": "https://liquipedia.net/commons/images/thumb/c/cd/Akai_Panda_Warrior_Skin.jpg/475px-Akai_Panda_Warrior_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20AKAI.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -586,7 +592,10 @@
           "skin_name": "Contractor",
           "image": "https://liquipedia.net/commons/images/thumb/2/21/Aldous_Contractor_Skin.jpg/475px-Aldous_Contractor_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20ALDOUS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -809,21 +818,30 @@
           "skin_name": "Queen of Blood",
           "image": "https://liquipedia.net/commons/images/thumb/6/6d/Alice_Queen_of_Blood_Skin.jpg/475px-Alice_Queen_of_Blood_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20ALICE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "alice_009",
           "skin_name": "Steam Glidere",
           "image": "https://liquipedia.net/commons/images/thumb/1/19/Alice_Steam_Glidere_Skin.jpg/475px-Alice_Steam_Glidere_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/v21/raw/main/Alice%20elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "alice_010",
           "skin_name": "Wizardy Teacher (Optimized)",
           "image": "https://liquipedia.net/commons/images/thumb/3/3e/Alice_Wizardy_Teacher_Skin.jpg/475px-Alice_Wizardy_Teacher_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alice-wizardy-revamped.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -1047,14 +1065,20 @@
           "skin_name": "Blade of Enmity",
           "image": "https://liquipedia.net/commons/images/thumb/2/2d/Alpha_Blade_of_Enmity_Skin.jpg/475px-Alpha_Blade_of_Enmity_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ALPHA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "alpha_009",
           "skin_name": "Edict of Sand",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/alpha-edict-of-sand.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPCOMING/alpha-edict-of-sand.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -1338,7 +1362,10 @@
           "skin_name": "Demon Hunter",
           "image": "https://liquipedia.net/commons/images/thumb/a/a0/Alucard_Demon_Hunter_Skin.jpg/475px-Alucard_Demon_Hunter_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ALUCARD.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -1648,7 +1675,10 @@
           "skin_name": "Bunnylove",
           "image": "https://liquipedia.net/commons/images/thumb/b/b8/Angela_Bunnylove_Skin.jpg/475px-Angela_Bunnylove_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWSUPPORT/raw/main/BACKUP%20ANGELA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -1812,7 +1842,10 @@
           "skin_name": "Dark Angel",
           "image": "https://liquipedia.net/commons/images/thumb/f/f0/Argus_Dark_Angel_Skin.jpg/475px-Argus_Dark_Angel_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ARGUS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -1916,14 +1949,20 @@
           "skin_name": "Lone Lancer",
           "image": "https://liquipedia.net/commons/images/thumb/f/f5/Arlott_Lone_Lancer_Skin.jpg/475px-Arlott_Lone_Lancer_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/arlott_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "arlott_005",
           "skin_name": "Wandering Spear",
           "image": "https://liquipedia.net/commons/images/thumb/9/94/Arlott_Wandering_Spear_Skin.jpg/475px-Arlott_Wandering_Spear_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/arlott_wandering_lance.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -2086,14 +2125,20 @@
           "skin_name": "Ocean Gladiator",
           "image": "https://liquipedia.net/commons/images/thumb/8/80/Atlas_Ocean_Gladiator_Skin.jpg/475px-Atlas_Ocean_Gladiator_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v60/upcomingSkins/Atlas%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "atlas_007",
           "skin_name": "Rune Sentinel",
           "image": "https://liquipedia.net/commons/images/thumb/5/5d/Atlas_Rune_Sentinel_Skin.jpg/475px-Atlas_Rune_Sentinel_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v60/upcomingSkins/Atlas%20MSC%20rune%20Sentinel.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -2256,14 +2301,20 @@
           "skin_name": "Warrior of Ferocity",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/aulus-default-revamped.jpg",
           "script": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/Aulus%20Backup%20%5B%20NEW%20%5D.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "aulus_007",
           "skin_name": "Berserker",
           "image": "https://liquipedia.net/commons/images/thumb/8/83/Aulus_Berserker_Skin.jpg/475px-Aulus_Berserker_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Aulis%20Berseker.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -2673,14 +2724,20 @@
           "skin_name": "Tribal Warrior",
           "image": "https://liquipedia.net/commons/images/thumb/c/cc/Badang_Tribal_Warrior_Skin.jpg/475px-Badang_Tribal_Warrior_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20BADANG.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "badang_009",
           "skin_name": "Badang Steel Arm",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/badang-steel-arm.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Badang-Steel-arm.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -2874,14 +2931,20 @@
           "skin_name": "Bloody Beast",
           "image": "https://liquipedia.net/commons/images/thumb/5/54/Balmond_Bloody_Beast_Skin.jpg/475px-Balmond_Bloody_Beast_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20BALMOND.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "balmond_008",
           "skin_name": "Vulcan Lionheart",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/balmond-new-collector.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/Balmond_razor_edge.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -3075,21 +3138,30 @@
           "skin_name": "Frozen King",
           "image": "https://liquipedia.net/commons/images/thumb/8/84/Bane_Frozen_King_1.jpg/475px-Bane_Frozen_King_1.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/bane_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "bane_008",
           "skin_name": "Deep Sea Monster",
           "image": "https://liquipedia.net/commons/images/thumb/b/b0/Bane_Deep_Sea_Monster_Skin.jpg/475px-Bane_Deep_Sea_Monster_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part12/raw/main/bane%20normal.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "bane_009",
           "skin_name": "Lord Scalding Seas",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/bane-lord-scaling.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/bane-lord-of-scalding-seas.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -3252,7 +3324,10 @@
           "skin_name": "Dino Rider",
           "image": "https://liquipedia.net/commons/images/thumb/0/03/Barats_Dino_Rider_Skin.jpg/475px-Barats_Dino_Rider_Skin.jpg",
           "script": "https://github.com/pleaset/tank/raw/main/58.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -3415,14 +3490,20 @@
           "skin_name": "Mystic Tortoise",
           "image": "https://liquipedia.net/commons/images/thumb/4/46/Baxia_Mystic_Tortoise_Skin.jpg/475px-Baxia_Mystic_Tortoise_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/TANK_ABC/raw/main/BACKUP%20BAXIA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "baxia_007",
           "skin_name": "S30",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/baxia-s30.legends.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/BaxiaS30.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -3644,21 +3725,30 @@
           "skin_name": "Dawnbreak Soldier",
           "image": "https://liquipedia.net/commons/images/thumb/9/9d/Beatrix_Dawnbreak_Soldier_Skin.jpg/475px-Beatrix_Dawnbreak_Soldier_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20BEATRIX.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "beatrix_009",
           "skin_name": "X Factor",
           "image": "https://liquipedia.net/commons/images/thumb/3/30/Beatrix_X_Factor_Skin.jpg/475px-Beatrix_X_Factor_Skin.jpg",
           "script": "https://github.com/pleaset/Marksman./raw/main/91.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "beatrix_010",
           "skin_name": "Stellar Brilliance",
           "image": "https://liquipedia.net/commons/images/thumb/a/a8/Beatrix_Stellar_Brilliance_Skin.jpg/475px-Beatrix_Stellar_Brilliance_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BEATRIX%20PRIME.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -3792,14 +3882,20 @@
           "skin_name": "Guard of Nature",
           "image": "https://liquipedia.net/commons/images/thumb/6/6e/Belerick_Guard_of_Nature_Skin.jpg/475px-Belerick_Guard_of_Nature_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/TANK_ABC/raw/main/BACKUP%20BELERICK.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "belerick_006",
           "skin_name": "Tiger's Claw",
           "image": "https://liquipedia.net/commons/images/thumb/2/2a/Belerick_Tiger%27s_Claw_Skin.jpg/475px-Belerick_Tiger%27s_Claw_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/TANK_ABC/raw/main/BELERICK%20NORMAL%20SKIN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -4051,7 +4147,10 @@
           "skin_name": "Shadow Ranger",
           "image": "https://liquipedia.net/commons/images/thumb/5/5e/Benedetta_Shadow_Ranger_Skin.jpg/475px-Benedetta_Shadow_Ranger_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20BENEDETTA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -4306,14 +4405,20 @@
           "skin_name": "The Lone Star",
           "image": "https://liquipedia.net/commons/images/thumb/6/6a/Brody_The_Lone_Star_Skin.jpg/475px-Brody_The_Lone_Star_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20BRODY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "brody_009",
           "skin_name": "Neobeast",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Brody-Neobeast.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/brody-neobeast.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -4536,21 +4641,30 @@
           "skin_name": "The Protector",
           "image": "https://liquipedia.net/commons/images/thumb/a/a4/Bruno_The_Protector_Skin.jpg/475px-Bruno_The_Protector_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/revamp/bruno-backup-revamp.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "bruno_009",
           "skin_name": "Street Hype",
           "image": "https://liquipedia.net/commons/images/thumb/6/6c/Bruno_Street_Hype_Skin.jpg/475px-Bruno_Street_Hype_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/revamp/bruno-street-revamp.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "bruno_010",
           "skin_name": "Urban Hype",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Bruno-Urban-Hype.jpg",
           "script": "https://github.com/Hiro161123/Marksman/raw/main/BRUNO%20STARLIGHT.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -4684,14 +4798,20 @@
           "skin_name": "Shadow of Twilight",
           "image": "https://liquipedia.net/commons/images/thumb/1/16/Carmilla_Shadow_of_Twilight_Skin.jpg/475px-Carmilla_Shadow_of_Twilight_Skin.jpg",
           "script": "https://github.com/pleaset/support/raw/main/26.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "carmilla_006",
           "skin_name": "Wisteria Countess",
           "image": "https://liquipedia.net/commons/images/thumb/6/63/Carmilla_Wisteria_Countess_Skin.jpg/475px-Carmilla_Wisteria_Countess_Skin.jpg",
           "script": "https://github.com/pleaset/support/raw/main/27.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -4913,14 +5033,20 @@
           "skin_name": "Embrace of Night",
           "image": "https://liquipedia.net/commons/images/thumb/b/b6/Cecilion_Embrace_of_Night_Skin.jpg/475px-Cecilion_Embrace_of_Night_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20CECILION.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "cecilion_009",
           "skin_name": "Vessels of Gluttony",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/cecilion-soul-vessels.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPDATED/cecilion-vessells-of-glutony.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -5171,14 +5297,20 @@
           "skin_name": "Moon Palace Immortal",
           "image": "https://liquipedia.net/commons/images/thumb/8/8e/Chang%27e_Moon_Palace_Immortal_Skin.jpg/475px-Chang%27e_Moon_Palace_Immortal_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20CHANGE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chang_e_010",
           "skin_name": "Crimson Moon",
           "image": "https://liquipedia.net/commons/images/thumb/8/8d/Chang%27e_Crimson_Moon_Skin.jpg/475px-Chang%27e_Crimson_Moon_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_MAGE2021/raw/main/CHANGE%20ELITE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -5252,14 +5384,20 @@
           "skin_name": "Phase Technician",
           "image": "https://liquipedia.net/commons/images/thumb/5/57/Chip_Phase_Technician.jpg/475px-Chip_Phase_Technician.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/2.5/New%20Hero/Chip%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chip_004",
           "skin_name": "Nexus Engineer",
           "image": "https://liquipedia.net/commons/images/thumb/1/1b/Chip_Nexus_Engineer_Skin.jpg/475px-Chip_Nexus_Engineer_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/2.5/New%20Hero/Chip%20Elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -5510,35 +5648,50 @@
           "skin_name": "Kung-Fu Boy",
           "image": "https://liquipedia.net/commons/images/thumb/d/d6/Chou_Kung-Fu_Boy_Skin.jpg/475px-Chou_Kung-Fu_Boy_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20CHOU.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chou_015",
           "skin_name": "Dragon Siryu",
           "image": "https://liquipedia.net/commons/images/thumb/6/62/Chou_Dragon_Siryu_Skin.jpg/475px-Chou_Dragon_Siryu_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20SAINT%20SEIYA%F0%9F%94%B8Dragon%20shiryu.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chou_016",
           "skin_name": "Libra Siryu",
           "image": "https://liquipedia.net/commons/images/thumb/f/f8/Chou_Libra_Siryu_Skin.jpg/475px-Chou_Libra_Siryu_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20SIANT%20SEIYA%F0%9F%94%B8libra%20shiryu.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chou_017",
           "skin_name": "Ken Masters 2",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/chou-ken-outfit-2.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-ken-outfit-2.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "chou_018",
           "skin_name": "Ken Masters 1",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/ken-outfit-1.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-ken-outfit-1.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -5670,7 +5823,10 @@
           "skin_name": "Buoyant Performer",
           "image": "https://liquipedia.net/commons/images/thumb/9/93/Cici_Buoyant_Performer_Skin.jpg/475px-Cici_Buoyant_Performer_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20CICI.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -6011,7 +6167,10 @@
           "skin_name": "Master Thief",
           "image": "https://liquipedia.net/commons/images/thumb/4/46/Claude_Master_Thief_Skin.jpg/475px-Claude_Master_Thief_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20CLAUDE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -6354,14 +6513,20 @@
           "skin_name": "West Justice",
           "image": "https://liquipedia.net/commons/images/thumb/5/5a/Clint_West_Justice.png/475px-Clint_West_Justice.png",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20CLINT.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "clint_013",
           "skin_name": "Crimson Blast",
           "image": "https://liquipedia.net/commons/images/thumb/5/57/Clint_Crimson_Blast_Skin.jpg/475px-Clint_Crimson_Blast_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_4.0/UPCOMING%20SKINS/clint-crimson-blast.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -6681,21 +6846,30 @@
           "skin_name": "Timekeeper",
           "image": "https://liquipedia.net/commons/images/thumb/8/8c/Diggie_Timekeeper_Skin.jpg/475px-Diggie_Timekeeper_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SUPPORT_ABC/raw/main/BACKUP%20DIGGIE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "diggie_005",
           "skin_name": "Pigeoneer",
           "image": "https://liquipedia.net/commons/images/thumb/d/df/Diggie_Pigeoneer_Skin.jpg/475px-Diggie_Pigeoneer_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SUPPORT_ABC/raw/main/DIGGIE%20SKIN%20BIASA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "diggie_006",
           "skin_name": "Circus Clown",
           "image": "https://liquipedia.net/commons/images/thumb/f/fd/Diggie_Circus_Clown_Skin.jpg/475px-Diggie_Circus_Clown_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_SUPPORT2021/raw/main/DIGGIE%20ELITE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -6887,21 +7061,30 @@
           "skin_name": "Prince of the Abyss",
           "image": "https://liquipedia.net/commons/images/thumb/d/d3/Dyrroth_Prince_of_the_Abyss_Skin.jpg/475px-Dyrroth_Prince_of_the_Abyss_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20DYRROTH.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "dyrroth_008",
           "skin_name": "Guile",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/dyroth-guile-outfit-1.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/dyroth-guile-outfit-1.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "dyrroth_009",
           "skin_name": "Scalebore",
           "image": "https://liquipedia.net/commons/images/thumb/a/a6/Dyrroth_Scalebore_Skin.jpg/475px-Dyrroth_Scalebore_Skin.jpg",
           "script": "https://github.com/pleaset/1.22/raw/main/4.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -7065,14 +7248,20 @@
           "skin_name": "Forsaken Warden",
           "image": "https://liquipedia.net/commons/images/thumb/9/97/Edith_Forsaken_Warden_Skin.jpg/475px-Edith_Forsaken_Warden_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20EDITH.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "edith_007",
           "skin_name": "Golden Warden",
           "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/V58/Edith%20Starlight.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -7294,14 +7483,20 @@
           "skin_name": "Astrologer",
           "image": "https://liquipedia.net/commons/images/thumb/7/7e/Esmeralda_Astrologer_Skin.jpg/475px-Esmeralda_Astrologer_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20ESMERALDA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "esmeralda_009",
           "skin_name": "Stellar Muse",
           "image": "https://liquipedia.net/commons/images/thumb/b/bf/Esmeralda_Stellar_Muse_Skin.jpg/475px-Esmeralda_Stellar_Muse_Skin.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/ESMERALDA%20ALLSTAR.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -7554,7 +7749,10 @@
           "skin_name": "Moon Elf King",
           "image": "https://liquipedia.net/commons/images/thumb/7/77/Estes_Moon_Elf_King_Skin.jpg/475px-Estes_Moon_Elf_King_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWSUPPORT/raw/main/BACKUP%20ESTES.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -8019,21 +8217,30 @@
           "skin_name": "Blade Dancer",
           "image": "https://liquipedia.net/commons/images/thumb/e/e1/Fanny_Blade_Dancer_Skin.jpg/475px-Fanny_Blade_Dancer_Skin.jpg",
           "script": "https://github.com/Hiro161123/Assassin/raw/main/BACKUP%20FANNY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fanny_014",
           "skin_name": "P.ACE",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Fanny-PACE.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/fanny-PACE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fanny_015",
           "skin_name": "Galactic Starhawk",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/fanny-galactic.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPDATED/fanny-galactic.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -8166,14 +8373,20 @@
           "skin_name": "The Alchemist",
           "image": "https://liquipedia.net/commons/images/thumb/f/f4/Faramis_The_Alchemist_Skin.jpg/475px-Faramis_The_Alchemist_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/V67/Feramis%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "faramis_006",
           "skin_name": "Dark Necro",
           "image": "https://liquipedia.net/commons/images/thumb/f/ff/Faramis_Dark_Necro_Skin.jpg/475px-Faramis_Dark_Necro_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/feramisNormalskin.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -8365,14 +8578,20 @@
           "skin_name": "The Budding Hope",
           "image": "https://liquipedia.net/commons/images/thumb/9/91/Floryn_The_Budding_Hope_Skin.jpg/475px-Floryn_The_Budding_Hope_Skin.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/BACKUP%20FLORYN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "floryn_008",
           "skin_name": "Herald of Autumn",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Floryn-Herald.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/floryn-eternal-season.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -8655,14 +8874,20 @@
           "skin_name": "Frozen Warrior",
           "image": "https://liquipedia.net/commons/images/thumb/4/4c/Franco_Frozen_Warrior_Skin.jpg/475px-Franco_Frozen_Warrior_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20FRANCO.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "franco_011",
           "skin_name": "Captain Lost",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/franco-captain-lost.legends.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/franco-captain-lost.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -8677,35 +8902,50 @@
           "skin_name": "Backup",
           "image": "https://liquipedia.net/commons/images/thumb/d/d5/Fredrinn_Rogue_Appraiser_Skin.jpg/475px-Fredrinn_Rogue_Appraiser_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fredrinn_002",
           "skin_name": "Regal Renegade",
           "image": "https://liquipedia.net/commons/images/thumb/5/53/Fredrinn_Regal_Renegade_Skin.jpg/475px-Fredrinn_Regal_Renegade_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/fredrin%20basic.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fredrinn_003",
           "skin_name": "Neobeast Fredrinn",
           "image": "https://liquipedia.net/commons/images/thumb/5/57/Fredrinn_Neobeast_Fredrinn_Skin.jpg/475px-Fredrinn_Neobeast_Fredrinn_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-neobeast.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fredrinn_004",
           "skin_name": "Sparkle Fredrinn",
           "image": "https://liquipedia.net/commons/images/thumb/f/f1/Fredrinn_Sparkle_Fredrinn_Skin.jpg/475px-Fredrinn_Sparkle_Fredrinn_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-sparkle.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "fredrinn_005",
           "skin_name": "Royal Marshal",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Fredrin-Royal-Marshal.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/freddrin-royal-marshal.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -9070,14 +9310,20 @@
           "skin_name": "Valkyrie",
           "image": "https://liquipedia.net/commons/images/thumb/5/59/Freya_Valkyrie_Skin.jpg/475px-Freya_Valkyrie_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20FREYA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "freya_010",
           "skin_name": "Galatic Vanquisher",
           "image": "https://liquipedia.net/commons/images/thumb/5/58/Freya_Galatic_Vanquisher.png/475px-Freya_Galatic_Vanquisher.png",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v90/Freya%20Legend.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -9211,21 +9457,30 @@
           "skin_name": "Iron Steel",
           "image": "https://liquipedia.net/commons/images/thumb/9/97/Gatotkaca_Iron_Steel_Skin.jpg/475px-Gatotkaca_Iron_Steel_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-sparkle.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "gatotkaca_006",
           "skin_name": "Arhat King",
           "image": "https://liquipedia.net/commons/images/thumb/b/b9/Gatotkaca_Arhat_King_Skin.jpg/475px-Gatotkaca_Arhat_King_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_TANK2021/raw/main/GATOT%20ELITE%F0%9F%94%B9Spark.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "gatotkaca_007",
           "skin_name": "Spark",
           "image": "https://liquipedia.net/commons/images/thumb/c/c1/Gatotkaca_Spark_Skin.jpg/475px-Gatotkaca_Spark_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_TANK2021/raw/main/GATOT%20ELITE%F0%9F%94%B9Arhat%20King.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -9328,7 +9583,10 @@
           "skin_name": "Swamp Spirits",
           "image": "https://liquipedia.net/commons/images/thumb/f/f4/Gloo_Swamp_Spirits_Skin.jpg/475px-Gloo_Swamp_Spirits_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/Update24/raw/main/BACKUP%20GLOO.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -9930,21 +10188,30 @@
           "skin_name": "Death Chanter",
           "image": "https://liquipedia.net/commons/images/thumb/7/74/Granger_Death_Chanter_Skin_2024.jpg/475px-Granger_Death_Chanter_Skin_2024.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Revamp%20Skin/granger_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "granger_014",
           "skin_name": "Thunder Ascendants",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Ganger-Thunder-Ascendants.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_4.0/UPCOMING%20SKINS/granger-thunder-ascendants.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "granger_015",
           "skin_name": "Soul Vessel",
           "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPCOMING/granger-soul-vessels.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -10197,14 +10464,20 @@
           "skin_name": "Fortress Titan",
           "image": "https://liquipedia.net/commons/images/thumb/5/56/Grock_Fortress_Titan_Skin.jpg/475px-Grock_Fortress_Titan_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPDATED/grock-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "grock_010",
           "skin_name": "Titanic illusion",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/grock-titanic-illusion.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPDATED/grock-titanic-illusion.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -10546,21 +10819,30 @@
           "skin_name": "Ms. Violet",
           "image": "https://liquipedia.net/commons/images/thumb/7/7d/Guinevere_Ms._Violet_Skin.jpg/475px-Guinevere_Ms._Violet_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20GUINEVERE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "guinevere_013",
           "skin_name": "Chun Li 1",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/guin-chun-li-outfit-1.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chun-li-outfit-1.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "guinevere_014",
           "skin_name": "Chun Li 2",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/guin-chun-li-outfit-2.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chunli-outfit-2.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -10931,14 +11213,20 @@
           "skin_name": "Holy Blade",
           "image": "https://liquipedia.net/commons/images/thumb/e/e6/Gusion_Holy_Blade_Skin.jpg/475px-Gusion_Holy_Blade_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20GUSION.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "gusion_014",
           "skin_name": "Minato Kamikaze",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/gusion-minato.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPCOMING/gusion-minato-namikaze.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -11189,14 +11477,20 @@
           "skin_name": "Scarlet Flower",
           "image": "https://liquipedia.net/commons/images/thumb/e/ee/Hanabi_Scarlet_Flower_Skin.jpg/475px-Hanabi_Scarlet_Flower_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20HANABI.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "hanabi_010",
           "skin_name": "Golden Month",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Hanabi-Golden-Month.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/hanabi-golden-month.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -11330,7 +11624,10 @@
           "skin_name": "Akuma Ninja",
           "image": "https://liquipedia.net/commons/images/thumb/8/89/Hanzo_Akuma_Ninja_Skin.jpg/475px-Hanzo_Akuma_Ninja_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.1/Revamp%20Skin/hanzo-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -11590,21 +11887,30 @@
           "skin_name": "Time Traveler",
           "image": "https://liquipedia.net/commons/images/thumb/e/ee/Harith_Time_Traveler_Skin.jpg/475px-Harith_Time_Traveler_Skin.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/BACKUP%20HARITH.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "harith_010",
           "skin_name": "Starlight Harith",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/harith-starligth.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/harith-starlight.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "harith_011",
           "skin_name": "Kilua",
           "image": "https://liquipedia.net/commons/images/thumb/0/05/Harith_Kilua_Skin.jpg/475px-Harith_Kilua_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/harith-killua.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -11857,21 +12163,30 @@
           "skin_name": "Mage Genius",
           "image": "https://liquipedia.net/commons/images/thumb/f/fe/Harley_Mage_Genius_Skin.jpg/475px-Harley_Mage_Genius_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20HARLEY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "harley_010",
           "skin_name": "Starcaster",
           "image": "https://liquipedia.net/commons/images/thumb/5/5e/Harley_Starcaster_Skin.jpg/475px-Harley_Starcaster_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/Harley%20Special.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "harley_011",
           "skin_name": "Star Magician",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Harley-Star-Magician.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/HARLEY%20ELITE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -12188,14 +12503,20 @@
           "skin_name": "Crimson Shadow",
           "image": "https://liquipedia.net/commons/images/thumb/9/97/Hayabusa_Crimson_Shadow_Skin.jpg/475px-Hayabusa_Crimson_Shadow_Skin.jpg",
           "script": "https://github.com/Hiro161123/Assassin/raw/main/BACKUP%20HAYABUSA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "hayabusa_012",
           "skin_name": "Exorcist",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Hayabusa-Exorcist.jpg",
           "script": "https://github.com/Hiro161123/Assassin/raw/main/HAYABUSA%20EXORCIST.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -12359,14 +12680,20 @@
           "skin_name": "Shadowbringer",
           "image": "https://liquipedia.net/commons/images/thumb/c/c5/Helcurt_Shadowbringer_Skin.jpg/475px-Helcurt_Shadowbringer_Skin.jpg",
           "script": "https://github.com/Hiro161123/Assassin/raw/main/BACKUP%20HELCURT.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "helcurt_007",
           "skin_name": "Kaiju of the Deep",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/helcurt-kaiju.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/helcurt-collector-titans.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -12500,14 +12827,20 @@
           "skin_name": "Power of Megalith",
           "image": "https://liquipedia.net/commons/images/thumb/c/c3/Hilda_Power_of_Megalith_Skin.jpg/475px-Hilda_Power_of_Megalith_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20HILDA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "hilda_006",
           "skin_name": "Flower of the Wastes",
           "image": "https://liquipedia.net/commons/images/thumb/2/27/Hilda_Flower_of_the_Wastes_Skin.jpg/475px-Hilda_Flower_of_the_Wastes_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/oldhero1/raw/main/hilda%20s3.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -12678,14 +13011,20 @@
           "skin_name": "Grand Warden",
           "image": "https://liquipedia.net/commons/images/thumb/9/95/Hylos_Grand_Warden_Skin.jpg/475px-Hylos_Grand_Warden_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20HYLOS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "hylos_007",
           "skin_name": "Jungle Watcher",
           "image": "https://liquipedia.net/commons/images/thumb/c/ce/Hylos_Jungle_Watcher_Skin.jpg/475px-Hylos_Jungle_Watcher_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/hylos-elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -12909,7 +13248,10 @@
           "skin_name": "Jungle Heart",
           "image": "https://liquipedia.net/commons/images/thumb/6/6f/Irithel_Jungle_Heart_Skin.jpg/475px-Irithel_Jungle_Heart_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20IRITHEL.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -13012,21 +13354,30 @@
           "skin_name": "Arclight Outlaw",
           "image": "https://liquipedia.net/commons/images/thumb/4/4e/Ixia_Arclight_Outlaw_Skin.jpg/475px-Ixia_Arclight_Outlaw_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v94/Ixia%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "ixia_005",
           "skin_name": "Shifting Sand",
           "image": "https://liquipedia.net/commons/images/thumb/5/5a/Ixia_Shifting_Sand_Skin.jpg/475px-Ixia_Shifting_Sand_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v94/Ixia%20Basic%20Skin.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "ixia_006",
           "skin_name": "Invoker Command",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Ixia-Invoker-Command.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Ixia-Invoker-Command.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -13309,14 +13660,20 @@
           "skin_name": "Steel Sweetheart",
           "image": "https://liquipedia.net/commons/images/thumb/4/4f/Jawhead_Steel_Sweetheart_Skin.jpg/475px-Jawhead_Steel_Sweetheart_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20JAWHEAD.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "jawhead_011",
           "skin_name": "Victory Leader",
           "image": "https://liquipedia.net/commons/images/thumb/5/58/Jawhead_S33_Skin.jpg/475px-Jawhead_S33_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/JAWHEAD%20S33.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -13480,7 +13837,10 @@
           "skin_name": "Wild Engine",
           "image": "https://liquipedia.net/commons/images/thumb/3/3b/Johnson_Mustang_Skin.jpg/475px-Johnson_Mustang_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/revamp/js-backup-revamp.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -13641,21 +14001,30 @@
           "skin_name": "Flash of Miracle",
           "image": "https://liquipedia.net/commons/images/thumb/c/cf/Joy_Flash_of_Miracle_Skin.jpg/475px-Joy_Flash_of_Miracle_Skin.jpg",
           "script": "https://github.com/Hiro161123/Assassin/raw/main/BACKUP%20JOY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "joy_007",
           "skin_name": "Badlands Scrapper",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/joy-special.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/joy-special.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "joy_008",
           "skin_name": "Hyperlight Runner",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Joy-Hyper-Runner.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/joy-hyperlight-runner.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -13845,28 +14214,40 @@
           "skin_name": "Scarlet Raven",
           "image": "https://liquipedia.net/commons/images/thumb/7/7d/Julian_Scarlet_Raven_Skin.jpg/475px-Julian_Scarlet_Raven_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20JULIAN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "julian_008",
           "skin_name": "Itachi Uchiha",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/julian-itachi.legends.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPCOMING/julian-itachi-uchiha.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "julian_009",
           "skin_name": "Kurupika",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Julian-Kurupika.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPDATED/julian-kurupika.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "julian_010",
           "skin_name": "Meowkin Hunter",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Julian-Meowkin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/julian-fatcat-update.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -14030,14 +14411,20 @@
           "skin_name": "Ocean Goddess",
           "image": "https://liquipedia.net/commons/images/thumb/5/51/Kadita_Ocean_Goddess_Skin.jpg/475px-Kadita_Ocean_Goddess_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/kadita%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "kadita_007",
           "skin_name": "Atlantean Princess",
           "image": "https://liquipedia.net/commons/images/thumb/c/cd/Kadita_Atlantean_Princess_Skin.jpg/475px-Kadita_Atlantean_Princess_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/kadita%20basic%20skin.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -14356,7 +14743,10 @@
           "skin_name": "Dragon Maiden",
           "image": "https://liquipedia.net/commons/images/thumb/3/3b/Kagura_Dragon_Maiden_Skin.jpg/475px-Kagura_Dragon_Maiden_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/kagura_soryu_maiden.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -14520,14 +14910,20 @@
           "skin_name": "Nazar King",
           "image": "https://liquipedia.net/commons/images/thumb/0/05/Kaja_Nazar_King_Skin.jpg/475px-Kaja_Nazar_King_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20KAJA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "kaja_007",
           "skin_name": "Horror Whiplash",
           "image": "https://liquipedia.net/commons/images/thumb/c/c7/Kaja_Horror_Whiplash_Skin.jpg/475px-Kaja_Horror_Whiplash_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/kaja%20elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -14727,7 +15123,10 @@
           "skin_name": "Shadow Blade",
           "image": "https://liquipedia.net/commons/images/thumb/d/d6/Karina_Shadow_Blade_Skin.jpg/475px-Karina_Shadow_Blade_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20KARINA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -15010,14 +15409,20 @@
           "skin_name": "Lost Star",
           "image": "https://liquipedia.net/commons/images/thumb/1/1d/Karrie_Lost_Star_Skin.jpg/475px-Karrie_Lost_Star_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20KARRIE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "karrie_011",
           "skin_name": "Breath of Nakara",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Karrie-Breath-Of-Nakara.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.4/Upcoming%20Skin/Karrie-Kishin-Densetsu.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -15091,7 +15496,10 @@
           "skin_name": "Desert Scimitar",
           "image": "https://liquipedia.net/commons/images/thumb/f/f1/Khaleed_Desert_Scimitar_Skin.jpg/475px-Khaleed_Desert_Scimitar_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_FIGHTER2021/raw/main/BACKUP%20KHALEED.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -15315,14 +15723,20 @@
           "skin_name": "Desert Tyant",
           "image": "https://liquipedia.net/commons/images/thumb/0/0e/Khufra_Desert_Tyant_Skin.jpg/475px-Khufra_Desert_Tyant_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20KHUFRA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "khufra_009",
           "skin_name": "Curse Scroll",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Khufra-Curse-Scroll.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/Khufra%20cursed.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -15576,14 +15990,20 @@
           "skin_name": "Jetpack Rebel",
           "image": "https://liquipedia.net/commons/images/thumb/9/94/Kimmy_Jetpack_Rebel_Skin.jpg/475px-Kimmy_Jetpack_Rebel_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_REVAMP/kimmy-revamp-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "kimmy_010",
           "skin_name": "FO Jet Trooper",
           "image": "https://liquipedia.net/commons/images/thumb/7/79/Kimmy_FO_Jet_Trooper_Skin.jpg/475px-Kimmy_FO_Jet_Trooper_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_REVAMP/kimmy-revamp-first-order.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -15925,14 +16345,20 @@
           "skin_name": "Blade of Roses",
           "image": "https://liquipedia.net/commons/images/thumb/7/70/Lancelot_Default_Skin.jpg/475px-Lancelot_Default_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20LANCELOT.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "lancelot_013",
           "skin_name": "Marquess of Blades",
           "image": "https://liquipedia.net/commons/images/thumb/2/2d/Lancelot_Marquess_of_Blades_Skin.jpg/475px-Lancelot_Marquess_of_Blades_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/LANCELOT%20ELITE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -16133,7 +16559,10 @@
           "skin_name": "Courageous Blade",
           "image": "https://liquipedia.net/commons/images/thumb/e/e7/Lapu-Lapu_Courageous_Blade_Skin.jpg/475px-Lapu-Lapu_Courageous_Blade_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20LAPU%20LAPU.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -16433,7 +16862,10 @@
           "skin_name": "Energy Gunner",
           "image": "https://liquipedia.net/commons/images/thumb/a/a9/Layla_Energy_Gunner_Revamp.png/475px-Layla_Energy_Gunner_Revamp.png",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/revamp/layla-backup-revamp.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -16717,14 +17149,20 @@
           "skin_name": "Sworn Sword",
           "image": "https://liquipedia.net/commons/images/thumb/b/b2/Leomord_Sworn_Sword_Skin.jpg/475px-Leomord_Sworn_Sword_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20LEOMORD.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "leomord_011",
           "skin_name": "Lunar Fest",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Leomord-Lunar-Fest.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPCOMING/leomord-lunar-fest.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -17052,14 +17490,20 @@
           "skin_name": "Deadly Sniper",
           "image": "https://liquipedia.net/commons/images/thumb/0/05/Lesley_Deadly_Sniper_Skin.webp/475px-Lesley_Deadly_Sniper_Skin.webp.png",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20LESLEY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "lesley_013",
           "skin_name": "Soul Vessel",
           "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPCOMING/lesley-soul-vessels.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -17339,14 +17783,20 @@
           "skin_name": "Cyan Finch",
           "image": "https://liquipedia.net/commons/images/thumb/c/c1/Ling_Cyan_Finch_Skin.jpg/475px-Ling_Cyan_Finch_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/2.3/ling-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "ling_011",
           "skin_name": "Neobeast",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Ling-Neobeast.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/ling-neonbeast.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -17509,14 +17959,20 @@
           "skin_name": "Steel Elf",
           "image": "https://liquipedia.net/commons/images/thumb/e/e9/Lolita_Steel_Elf_Skin.jpg/475px-Lolita_Steel_Elf_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/TANK_ABC/raw/main/BACKUP%20LOLITA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "lolita_007",
           "skin_name": "Soldier in Training",
           "image": "https://liquipedia.net/commons/images/thumb/7/78/Lolita_Soldier_in_Training_Skin.jpg/475px-Lolita_Soldier_in_Training_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/v25/raw/main/Lolita%20Elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -17589,7 +18045,10 @@
           "skin_name": "Beast of Light",
           "image": "https://liquipedia.net/commons/images/thumb/d/dd/Lukas_Beast_of_Light_Skin.jpg/475px-Lukas_Beast_of_Light_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/New%20Hero/Lukas%20backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -17841,14 +18300,20 @@
           "skin_name": "Twilight Goddess",
           "image": "https://liquipedia.net/commons/images/thumb/3/38/Lunox_Twilight_Goddess_Skin.jpg/475px-Lunox_Twilight_Goddess_Skin.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/BACKUP%20LUNOX.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "lunox_010",
           "skin_name": "Nature's Harmony",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Lunox-Nature-s-Harmony.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/LUNOX%20ELITE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18071,14 +18536,20 @@
           "skin_name": "Yin-yang Geomancer",
           "image": "https://liquipedia.net/commons/images/thumb/3/3d/Luo_Yi_Yin-yang_Geomancer_Skin.jpg/475px-Luo_Yi_Yin-yang_Geomancer_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20LUO%20YI.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "luo_yi_009",
           "skin_name": "Ying-yang Mage",
           "image": "https://liquipedia.net/commons/images/thumb/d/d2/Luo_Yi_Ying-yang_Mage_Skin.jpg/475px-Luo_Yi_Ying-yang_Mage_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/MAGE_ABC/raw/main/LUO%20YI%20SKIN%20BIASA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18271,7 +18742,10 @@
           "skin_name": "Little Wizard",
           "image": "https://liquipedia.net/commons/images/thumb/e/e3/Lylia_Little_Wizard_Skin.jpg/475px-Lylia_Little_Wizard_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20LYLIA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18494,14 +18968,20 @@
           "skin_name": "Ashura King",
           "image": "https://liquipedia.net/commons/images/thumb/3/33/Martis_Ashura_King_Skin.jpg/475px-Martis_Ashura_King_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20MARTIS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "martis_009",
           "skin_name": "Wild Renegade",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/martis-wild-renegade.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPCOMING/martis-wild-renegade.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18694,7 +19174,10 @@
           "skin_name": "Wild-oats Fist",
           "image": "https://liquipedia.net/commons/images/thumb/f/fe/Masha_Wild-oats_Fist_Skin.jpg/475px-Masha_Wild-oats_Fist_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20MASHA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18828,14 +19311,20 @@
           "skin_name": "Swift Plume",
           "image": "https://liquipedia.net/commons/images/thumb/f/f9/Mathilda_Swift_Plume_Skin.jpg/475px-Mathilda_Swift_Plume_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part17/raw/main/Mathilda%20backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "mathilda_006",
           "skin_name": "Unrestrained Delight",
           "image": "https://liquipedia.net/commons/images/thumb/2/2f/Mathilda_Unrestrained_Delight_Skin.jpg/475px-Mathilda_Unrestrained_Delight_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SUPPORT_ABC/raw/main/NORMAL%20SKIN%20MATHILDA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -18998,14 +19487,20 @@
           "skin_name": "Cursed Needle",
           "image": "https://liquipedia.net/commons/images/thumb/9/91/Melissa_Cursed_Needle_Skin.jpg/475px-Melissa_Cursed_Needle_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20MELISSA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "melissa_007",
           "skin_name": "Cursewalker",
           "image": "https://liquipedia.net/commons/images/thumb/9/91/Melissa_Cursewalker.png/475px-Melissa_Cursewalker.png",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v78/Melissa%20Night%20Walker.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -19199,7 +19694,10 @@
           "skin_name": "Taurus",
           "image": "https://liquipedia.net/commons/images/thumb/b/ba/Minotaur_Taurus_Skin.jpg/475px-Minotaur_Taurus_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/MINOTOUR%20ZODIAC.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -19333,28 +19831,40 @@
           "skin_name": "Courageous Warrior",
           "image": "https://liquipedia.net/commons/images/thumb/4/49/Minsitthar_Courageous_Warrior_Skin.jpg/475px-Minsitthar_Courageous_Warrior_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20MINSITTAR.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "minsitthar_006",
           "skin_name": "King of War",
           "image": "https://liquipedia.net/commons/images/thumb/a/a0/Minsitthar_King_of_War_Skin.jpg/475px-Minsitthar_King_of_War_Skin.jpg",
           "script": "https://github.com/pleaset/FIGTHER/raw/main/51.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "minsitthar_007",
           "skin_name": "Gilded King",
           "image": "https://liquipedia.net/commons/images/thumb/e/eb/Minsitthar_Gilded_King_Skin.jpg/475px-Minsitthar_Gilded_King_Skin.jpg",
           "script": "https://github.com/pleaset/FIGTHER/raw/main/52.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "minsitthar_008",
           "skin_name": "Golden Gala",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Minsithar-Golden-Gala.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/minsitthar-golden-gala.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -19369,98 +19879,140 @@
           "skin_name": "Moonlight Archer",
           "image": "https://liquipedia.net/commons/images/thumb/a/aa/Miya_Moonlight_Archer_Skin.jpg/475px-Miya_Moonlight_Archer_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/Miya_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_002",
           "skin_name": "Burning Bow",
           "image": "https://liquipedia.net/commons/images/thumb/b/bf/Miya_Burning_Bow_Skin.jpg/475px-Miya_Burning_Bow_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20elite.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_003",
           "skin_name": "Christmas Carnival",
           "image": "https://liquipedia.net/commons/images/thumb/7/7d/Miya_Christmas_Carnival_Skin.jpg/475px-Miya_Christmas_Carnival_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_christmas_carnival.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_004",
           "skin_name": "Captain Thorns",
           "image": "https://liquipedia.net/commons/images/8/83/Miya_Captain_Thorns_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20starlight.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_005",
           "skin_name": "Honor",
           "image": "https://liquipedia.net/commons/images/thumb/4/4f/Miya_Honor_Skin.jpg/475px-Miya_Honor_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_honor.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_006",
           "skin_name": "Modena Butterfly",
           "image": "https://liquipedia.net/commons/images/thumb/8/84/Miya_Modena_Butterfly_Skin.jpg/475px-Miya_Modena_Butterfly_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_modena_buttefly.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_007",
           "skin_name": "Sweet Fantasy",
           "image": "https://liquipedia.net/commons/images/thumb/5/58/Alucard_Romantic_Fantasy_Skin.jpg/475px-Alucard_Romantic_Fantasy_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_sweet_fantasy.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_008",
           "skin_name": "Suzuhime",
           "image": "https://liquipedia.net/commons/images/thumb/4/4c/Miya_Suzuhime_Skin.jpg/475px-Miya_Suzuhime_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_suzuhumi.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_009",
           "skin_name": "Jungle Ranger",
           "image": "https://liquipedia.net/commons/images/thumb/3/30/Miya_Jungle_Ranger_Skin.jpg/475px-Miya_Jungle_Ranger_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20normal.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_010",
           "skin_name": "Moon Priestess",
           "image": "https://liquipedia.net/commons/images/thumb/b/be/Miya_Moon_Priestess_Skin.jpg/475px-Miya_Moon_Priestess_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20aniversar6.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_011",
           "skin_name": "Doom Catalyst",
           "image": "https://liquipedia.net/commons/images/thumb/6/6f/Miya_Doom_Catalyst_Skin.jpg/475px-Miya_Doom_Catalyst_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_doom_catalyst.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_012",
           "skin_name": "Atomic Pop Miya",
           "image": "https://liquipedia.net/commons/images/thumb/5/5a/Miya_Atomic_Pop_Miya_Skin.jpg/475px-Miya_Atomic_Pop_Miya_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_atomic_pop.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_013",
           "skin_name": "Nightowl Huntress",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Miya-Night-Owl-Huntress.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.3/Upcoming%20Skins/miya-night-owl-huntress.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "miya_014",
           "skin_name": "Arrow of Spring",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Miya-Arrow-Of-Spring.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/miya-eternal-season.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -19803,7 +20355,10 @@
           "skin_name": "Spear of Quiescence",
           "image": "https://liquipedia.net/commons/images/thumb/4/43/Moskov_Spear_of_Quiescence_Revamped.jpg/475px-Moskov_Spear_of_Quiescence_Revamped.jpg",
           "script": "https://github.com/Hiro161123/Marksman/raw/main/BACKUP%20MOSKOV.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20055,7 +20610,10 @@
           "skin_name": "Mistbender",
           "image": "https://liquipedia.net/commons/images/thumb/1/16/Nana_Mistbender_Nana_Skin.jpg/475px-Nana_Mistbender_Nana_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/nana_mistbender.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20279,21 +20837,30 @@
           "skin_name": "Bright Claw",
           "image": "https://liquipedia.net/commons/images/thumb/1/12/Natalia_Bright_Claw_Skin.jpg/475px-Natalia_Bright_Claw_Skin.jpg",
           "script": "https://github.com/pleaset/ASSASlN/raw/main/Natalia.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "natalia_009",
           "skin_name": "Deadly Mamba",
           "image": "https://liquipedia.net/commons/images/thumb/c/ca/Natalia_Deadly_Mamba_Skin.jpg/475px-Natalia_Deadly_Mamba_Skin.jpg",
           "script": "https://github.com/XXXRAINIER09/part12/raw/main/natalia%20special.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "natalia_010",
           "skin_name": "Natalia Soul Huntress",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Natalia-Soul-Huntress.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Natalia-soul-huntress.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20515,14 +21082,20 @@
           "skin_name": "Spacetime Walker",
           "image": "https://liquipedia.net/commons/images/thumb/b/b6/Natan_Spacetime_Walker_Skin.jpg/475px-Natan_Spacetime_Walker_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20NATHAN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "natan_009",
           "skin_name": "Tidal Lord",
           "image": "https://liquipedia.net/commons/images/thumb/5/54/Natan_Tidal_Lord_Skin.jpg/475px-Natan_Tidal_Lord_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/NATHAN%20COLLECTOR.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20684,14 +21257,20 @@
           "skin_name": "Cosmic Wayfinder",
           "image": "https://liquipedia.net/commons/images/thumb/4/44/Nolan_Cosmic_Wayfinder_Skin.jpg/475px-Nolan_Cosmic_Wayfinder_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20NOLAN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "nolan_007",
           "skin_name": "Voidewalker",
           "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
           "script": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BASIC%20SKIN%20NOLAN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20825,7 +21404,10 @@
           "skin_name": "Star Rebel",
           "image": "https://liquipedia.net/commons/images/thumb/3/3a/Novaria_Star_Rebel_Skin.jpg/475px-Novaria_Star_Rebel_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v94/Novaria%20Backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -20869,7 +21451,10 @@
           "skin_name": "Sovereign of Dark's End",
           "image": "https://liquipedia.net/commons/images/thumb/1/1c/Obsidia_Sovereign_of_Dark%27s_End_Skin.jpg/475px-Obsidia_Sovereign_of_Dark%27s_End_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPCOMING/obsidian-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -21397,21 +21982,30 @@
           "skin_name": "The Heavenly Fist",
           "image": "https://liquipedia.net/commons/images/thumb/a/a2/Paquito_The_Heavenly_Fist_Skin.jpg/475px-Paquito_The_Heavenly_Fist_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20PAQUITO.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "paquito_011",
           "skin_name": "Ryu 1",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/paquito-ryu-oufit-1.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/paquito-ryu-outfit-1.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "paquito_012",
           "skin_name": "Ryu 2",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/paquito-ryu-outfit-2.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/paquito-ryu-outfit-2.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -21663,14 +22257,20 @@
           "skin_name": "Wings of Vengeance",
           "image": "https://liquipedia.net/commons/images/thumb/3/36/Pharsa_Wings_of_Vengeance_Skin.jpg/475px-Pharsa_Wings_of_Vengeance_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20PHARSA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "pharsa_010",
           "skin_name": "Neobeast",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Pharsa-Neon-Beast.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/pharsa-neobeast.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -21744,14 +22344,20 @@
           "skin_name": "Shadow of Dread",
           "image": "https://liquipedia.net/commons/images/thumb/0/07/Phoveus_Shadow_of_Dread_Skin.jpg/475px-Phoveus_Shadow_of_Dread_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/nana_mistbender.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "phoveus_004",
           "skin_name": "Horror Bringer",
           "image": "https://liquipedia.net/commons/images/thumb/3/3c/Phoveus_Horror_Bringer_Skin.jpg/475px-Phoveus_Horror_Bringer_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Phoveus%20Horror%20Bringer.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -21915,14 +22521,20 @@
           "skin_name": "Iceland Companions",
           "image": "https://liquipedia.net/commons/images/thumb/8/82/Popol_and_Kupa_Iceland_Companions_Skin.jpg/475px-Popol_and_Kupa_Iceland_Companions_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMM/raw/main/BACKUP%20POPOL%20%20KUPA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "popol_and_kupa_007",
           "skin_name": "Proto Hunter",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Popol-And-Kupq-Proto-Hunter.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPCOMING/popol-pronto-skin.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -22144,7 +22756,10 @@
           "skin_name": "Wings of Holiness",
           "image": "https://liquipedia.net/commons/images/thumb/6/6c/Rafaela_Wings_of_Holiness_Skin.jpg/475px-Rafaela_Wings_of_Holiness_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWSUPPORT/raw/main/BACKUP%20RAFAELA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -22427,28 +23042,40 @@
           "skin_name": "Dire Wolf Hunter",
           "image": "https://liquipedia.net/commons/images/thumb/1/1c/Roger_Dire_Wolf_Hunter_Skin.jpg/475px-Roger_Dire_Wolf_Hunter_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ROGER.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "roger_011",
           "skin_name": "Ashbone Gunslinger",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/roger-special.jpg",
           "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/roger-special.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "roger_012",
           "skin_name": "Phantom Pirate",
           "image": "https://liquipedia.net/commons/images/thumb/a/a4/Roger_Phantom_Pirate_Skin.jpg/475px-Roger_Phantom_Pirate_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ROGER%20EPIC%F0%9F%94%B8Phantom.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "roger_013",
           "skin_name": "Invoker Restraint",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Roger-Invoker-Restraint.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPDATED/rogers-invokers-restraint.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -22759,14 +23386,20 @@
           "skin_name": "Little Red Hood",
           "image": "https://liquipedia.net/commons/images/thumb/c/c0/Ruby_Little_Red_Hood_Skin.jpg/475px-Ruby_Little_Red_Hood_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20RUBY.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "ruby_012",
           "skin_name": "Mecha Maiden Skin",
           "image": "https://liquipedia.net/commons/images/thumb/7/7a/Ruby_Mecha_Maiden_Skin.jpg/475px-Ruby_Mecha_Maiden_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/RUBY%20ASPIRANT.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -22873,7 +23506,10 @@
           "skin_name": "Silver Edge",
           "image": "https://liquipedia.net/commons/images/thumb/7/73/Saber_Silver_Edge_Skin.jpg/475px-Saber_Silver_Edge_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Assassin/Saber%20Silver%20Edge.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -23193,14 +23829,20 @@
           "skin_name": "Abyssal Witch",
           "image": "https://liquipedia.net/commons/images/thumb/4/4b/Selena_Abyssal_Witch_Skin.jpg/475px-Selena_Abyssal_Witch_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20SELENA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "selena_012",
           "skin_name": "Wraith Butterfly",
           "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v80/selena-butterfly.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -23423,14 +24065,20 @@
           "skin_name": "Imperial Knightess",
           "image": "https://liquipedia.net/commons/images/thumb/9/9d/Silvanna_Imperial_Knightess_Skin.jpg/475px-Silvanna_Imperial_Knightess_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20SILVANA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "silvanna_009",
           "skin_name": "Midnight Justice",
           "image": "https://liquipedia.net/commons/images/thumb/a/a5/Silvanna_Midnight_Justice_Skin.jpg/475px-Silvanna_Midnight_Justice_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Silvannna%20Midnight%20justice.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -23695,14 +24343,20 @@
           "skin_name": "Monkey King",
           "image": "https://liquipedia.net/commons/images/thumb/2/20/Sun_Monkey_King_Revamp.png/475px-Sun_Monkey_King_Revamp.png",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20SUN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "sun_009",
           "skin_name": "Queller of Chaos",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Sun-Queller-Of-Chaos.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/sun-queller-of-chaos.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -23804,7 +24458,10 @@
           "skin_name": "Mask of the Immortal",
           "image": "https://liquipedia.net/commons/images/thumb/f/ff/Suyou_Mask_of_the_Immortal_Skin.jpg/475px-Suyou_Mask_of_the_Immortal_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/New%20Hero/souyu%20backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -23938,14 +24595,20 @@
           "skin_name": "Executioner",
           "image": "https://liquipedia.net/commons/images/thumb/5/50/Terizla_Executioner_Skin.jpg/475px-Terizla_Executioner_Skin.jpg",
           "script": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20TERIZLA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "terizla_006",
           "skin_name": "Flare",
           "image": "https://liquipedia.net/commons/images/thumb/7/78/Terizla_Flare_Skin.jpg/475px-Terizla_Flare_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Terizla%20Flare.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -24115,14 +24778,20 @@
           "skin_name": "Lord Lava",
           "image": "https://liquipedia.net/commons/images/thumb/f/fb/Thamuz_Lord_Lava_Skin.jpg/475px-Thamuz_Lord_Lava_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPDATED/thamuz-restore.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "thamuz_007",
           "skin_name": "Annihilator",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Thamuz-Annihilator.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/thamuz-the-annihilator.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -24316,28 +24985,40 @@
           "skin_name": "Warrior Of Dawn",
           "image": "https://liquipedia.net/commons/images/thumb/8/88/Tigreal_Warrior_Of_Dawn_Skin.jpg/475px-Tigreal_Warrior_Of_Dawn_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20TIGREAL.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "tigreal_008",
           "skin_name": "Fallen Guard",
           "image": "https://liquipedia.net/commons/images/thumb/0/06/Tigreal_Fallen_Guard_Skin.jpg/475px-Tigreal_Fallen_Guard_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/SC_TANK2021/raw/main/TRIGEAL%20ELITE%F0%9F%94%B9Fallen%20Guard.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "tigreal_009",
           "skin_name": "Wyrmslayer",
           "image": "https://liquipedia.net/commons/images/thumb/9/9a/Tigreal_Wyrmslayer_Skin.jpg/475px-Tigreal_Wyrmslayer_Skin.jpg",
           "script": "https://github.com/pleaset/New_Tank/raw/main/3.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "tigreal_010",
           "skin_name": "Celestial Guardian",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Tigreal-Celestial-Guardian.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/tigreal-celestial-guardian.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -24531,7 +25212,10 @@
           "skin_name": "Aethereal Defender",
           "image": "https://liquipedia.net/commons/images/thumb/c/ce/Uranus_Aethereal_Defender_Skin.jpg/475px-Uranus_Aethereal_Defender_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20URANUS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -24753,7 +25437,10 @@
           "skin_name": "Windtalker",
           "image": "https://liquipedia.net/commons/images/thumb/4/4f/Vale_Windtalker_Skin.jpg/475px-Vale_Windtalker_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/vale_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -24945,7 +25632,10 @@
           "skin_name": "Prophetess of the Night",
           "image": "https://liquipedia.net/commons/images/thumb/1/1d/Valentina_Prophetess_of_the_Night_Skin.jpg/475px-Valentina_Prophetess_of_the_Night_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/valentina_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -25229,7 +25919,10 @@
           "skin_name": "Son of Flames",
           "image": "https://liquipedia.net/commons/images/thumb/2/22/Valir_Son_of_Flames_Skin.jpg/475px-Valir_Son_of_Flames_Skin.jpg",
           "script": "https://github.com/Hiro161123/Mage/raw/main/BACKUP%20VALIR.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -25452,21 +26145,30 @@
           "skin_name": "Shimmer of Hope",
           "image": "https://liquipedia.net/commons/images/thumb/d/d3/Vexana_Shimmer_of_Hope_Skin.jpg/475px-Vexana_Shimmer_of_Hope_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20VEXANA.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "vexana_009",
           "skin_name": "The Sum Empress",
           "image": "https://liquipedia.net/commons/images/thumb/1/1a/Vexana_The_Sum_Empress_Skin.jpg/475px-Vexana_The_Sum_Empress_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.7/Updated%20skin/vexana-collector.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "vexana_010",
           "skin_name": "Twisted Fairytale Zenith",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Vexana-Twisted.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.7/Updated%20skin/vexana-zenith.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -25718,7 +26420,10 @@
           "skin_name": "Agile Tiger",
           "image": "https://liquipedia.net/commons/images/thumb/3/34/Wanwan_Agile_Tiger_Skin.jpg/475px-Wanwan_Agile_Tiger_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/wanwan_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -25939,21 +26644,30 @@
           "skin_name": "Firaga Armor",
           "image": "https://liquipedia.net/commons/images/thumb/9/99/X.Borg_Firaga_Armor_Skin.jpg/475px-X.Borg_Firaga_Armor_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20XBORG.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "x_borg_009",
           "skin_name": "Pecados",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Xborg-Pecados.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/xborg-pecados.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "x_borg_010",
           "skin_name": "Invokers Frame",
           "image": "https://liquipedia.net/commons/images/thumb/a/ad/X.Borg_Bumblebee_Skin.jpg/475px-X.Borg_Bumblebee_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Xborg-Invoker-Frame.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26116,14 +26830,20 @@
           "skin_name": "Defier of Light",
           "image": "https://liquipedia.net/commons/images/thumb/5/5f/Xavier_Defier_of_Light_Skin.jpg/475px-Xavier_Defier_of_Light_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/xavier_backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "xavier_007",
           "skin_name": "Sun born Monarch",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Xavier-Sun-Born.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/sun-sunborn-monarch.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26347,7 +27067,10 @@
           "skin_name": "Paenlong Legend",
           "image": "https://liquipedia.net/commons/images/thumb/f/f5/Yi_Sun-Shin_Paenlong_Legend_Skin.jpg/475px-Yi_Sun-Shin_Paenlong_Legend_Skin.jpg",
           "script": "https://github.com/Hiro161123/Marksman/raw/main/BACKUP%20YSS.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26538,7 +27261,10 @@
           "skin_name": "Martial Genius",
           "image": "https://liquipedia.net/commons/images/thumb/2/27/Yin_Martial_Genius_Skin.jpg/475px-Yin_Martial_Genius_Skin.jpg",
           "script": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20YIN.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26765,7 +27491,10 @@
           "skin_name": "Black Dragon",
           "image": "https://liquipedia.net/commons/images/thumb/4/41/Yu_Zhong_Black_Dragon_Skin.jpg/475px-Yu_Zhong_Black_Dragon_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhon-Backup-R.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26869,21 +27598,30 @@
           "skin_name": "Astrowarden",
           "image": "https://liquipedia.net/commons/images/thumb/9/90/Yve_Astrowarden_Skin.jpg/475px-Yve_Astrowarden_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/MAGE_ABC/raw/main/BACKUP%20YVE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "yve_005",
           "skin_name": "Forest Hymn",
           "image": "https://liquipedia.net/commons/images/thumb/9/98/Yve_Forest_Hymn_Skin.jpg/475px-Yve_Forest_Hymn_Skin.jpg",
           "script": "https://github.com/Yurimihanki/custom/raw/main/s.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "yve_006",
           "skin_name": "Radiant Lotus",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Yve-Radiant.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/yve-radiant-lotus.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -26944,7 +27682,10 @@
           "skin_name": "Sunset Luminance",
           "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/zetian-sunset-luminance.legends.jpg",
           "script": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/zetian-sunset-luminance.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -27108,7 +27849,10 @@
           "skin_name": "The King of Swarms",
           "image": "https://liquipedia.net/commons/images/thumb/7/72/Zhask_The_King_of_Swarms_Skin.jpg/475px-Zhask_The_King_of_Swarms_Skin.jpg",
           "script": "https://github.com/BANGMAMET1995/MAGE_ABC/raw/main/BACKUP%20ZHASK.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -27240,14 +27984,20 @@
           "skin_name": "Beacon of Spirits",
           "image": "https://liquipedia.net/commons/images/thumb/c/c1/Zhuxin_Beacon_of_Spirits_Skin.jpg/475px-Zhuxin_Beacon_of_Spirits_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.9/Upcoming%20Skin/zhuxin-backup.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         },
         {
           "id": "zhuxin_006",
           "skin_name": "P.ACE Zhuxin",
           "image": "https://liquipedia.net/commons/images/thumb/b/b5/Zhuxin_P.ACE_Zhuxin_Skin.jpg/475px-Zhuxin_P.ACE_Zhuxin_Skin.jpg",
           "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/zhuxin-PACE.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
     },
@@ -27530,9 +28280,19 @@
           "skin_name": "Spear of Dragon",
           "image": "https://liquipedia.net/commons/images/thumb/8/84/Zilong_Spear_of_Dragon_Revamp.png/475px-Zilong_Spear_of_Dragon_Revamp.png",
           "script": "https://github.com/RyuDevGFX/V53/raw/main/v95/zilong-backup-skin.zip",
-          "enabled": true
+          "enabled": true,
+          "name": "",
+          "featured": false,
+          "tags": []
         }
       ]
+    },
+    {
+      "id": "zz_admin_smoke_test",
+      "name": "ZZ Admin Smoke Test",
+      "category": "assassin",
+      "enabled": true,
+      "skins": []
     }
   ]
 }
