@@ -28286,13 +28286,6 @@
           "tags": []
         }
       ]
-    },
-    {
-      "id": "zz_admin_smoke_test",
-      "name": "ZZ Admin Smoke Test",
-      "category": "assassin",
-      "enabled": true,
-      "skins": []
     }
   ]
 }
