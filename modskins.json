@@ -1,6 +1,860 @@
 {
   "modskins": [
     {
+      "id": "phoveus_jiraya_2",
+      "name": "Phoveus",
+      "category": "Jiraya",
+      "series": "Jiraya",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/phov%20jiraya.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/phov%20jiraya.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Jiraya",
+        "Phoveus"
+      ]
+    },
+    {
+      "id": "martis_inosuke_2",
+      "name": "Martis",
+      "category": "Inosuke",
+      "series": "Inosuke",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/images%20(11).jpeg",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/martis%20inosuke%20v2.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Inosuke",
+        "Martis"
+      ]
+    },
+    {
+      "id": "martis_allain_2",
+      "name": "Martis",
+      "category": "Allain",
+      "series": "Allain",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/martis.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/martis%20allain.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Allain",
+        "Martis"
+      ]
+    },
+    {
+      "id": "paquito_yuji_2",
+      "name": "Paquito",
+      "category": "Yuji",
+      "series": "Yuji",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/paquito%20yuji%20hok.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/paquito%20yuji%20hok.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Yuji",
+        "Paquito"
+      ]
+    },
+    {
+      "id": "paquito_jollibee",
+      "name": "Paquito",
+      "category": "Jollibee",
+      "series": "Jollibee",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Jollibee",
+        "Paquito"
+      ]
+    },
+    {
+      "id": "paquito_cj_2",
+      "name": "Paquito",
+      "category": "CJ",
+      "series": "CJ",
+      "image": "https://i.pinimg.com/474x/c2/d8/75/c2d8751cd9e4cc8fd8ac9ff3cc35d6e2.jpg",
+      "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "CJ",
+        "Paquito"
+      ]
+    },
+    {
+      "id": "nana_anya",
+      "name": "Nana",
+      "category": "Anya",
+      "series": "Anya",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/nana%20anya.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/nana%20anya.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Anya",
+        "Nana"
+      ]
+    },
+    {
+      "id": "nana_xiaoxiao",
+      "name": "Nana",
+      "category": "Xiao-Xiao",
+      "series": "Xiao-Xiao",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/nana.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/nana%20xiao.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Xiao-Xiao",
+        "Nana"
+      ]
+    },
+    {
+      "id": "hilda_kushina_2",
+      "name": "Hilda",
+      "category": "Kushina",
+      "series": "Kushina",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/hilda%20kushina.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/hilda%20kushina.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kushina",
+        "Hilda"
+      ]
+    },
+    {
+      "id": "estes_kabuto_2",
+      "name": "Estes",
+      "category": "Kabuto",
+      "series": "Kabuto",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/estes.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/estes%20kabuto.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kabuto",
+        "Estes"
+      ]
+    },
+    {
+      "id": "cyclops_gojo",
+      "name": "Cyclops",
+      "category": "Gojo",
+      "series": "Gojo",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cylops%20gojo.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cylops%20gojo.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Gojo",
+        "Cyclops"
+      ]
+    },
+    {
+      "id": "bane_shino_2",
+      "name": "Bane",
+      "category": "Shino",
+      "series": "Shino",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/ban%20shino.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Shino",
+        "Bane"
+      ]
+    },
+    {
+      "id": "bane_kisame_2",
+      "name": "Bane",
+      "category": "Kisame",
+      "series": "Kisame",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/bane%20kisame.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/bane%20kisame.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kisame",
+        "Bane"
+      ]
+    },
+    {
+      "id": "aulus_tanjiro_2",
+      "name": "Aulus",
+      "category": "Tanjiro",
+      "series": "Tanjiro",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/aulus%20tanjiro.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/aulos%20tanjiro.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Tanjiro",
+        "Aulus"
+      ]
+    },
+    {
+      "id": "aulus_renguko_2",
+      "name": "Aulus",
+      "category": "Renguko",
+      "series": "Renguko",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/aulos%20renguko.png",
+      "script": "https://github.com/missnapokita/custom-skin-ngayong-2026/raw/refs/heads/main/aulos%20renguko.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Renguko",
+        "Aulus"
+      ]
+    },
+    {
+      "id": "arlott_shirou_2",
+      "name": "Arlott",
+      "category": "Shirou",
+      "series": "Shirou",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/arlott%20shirou.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/arlott%20shirou.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Shirou",
+        "Arlott"
+      ]
+    },
+    {
+      "id": "badang_akaza_2",
+      "name": "Badang",
+      "category": "Akaza",
+      "series": "Akaza",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/badang%20akaza.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Akaza",
+        "Badang"
+      ]
+    },
+    {
+      "id": "badang_genos_2",
+      "name": "Badang",
+      "category": "Genos",
+      "series": "Genos",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/badang%20genus.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/badang%20genos.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Genos",
+        "Badang"
+      ]
+    },
+    {
+      "id": "alpha_homelander_2",
+      "name": "Alpha",
+      "category": "Homelander",
+      "series": "Homelander",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBq0OLG7Ss6Ml6qXrLh6zegg9NlJZMKZjv2RKAP0nsDgg8Y0eGGqUQs4k&s=10",
+      "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20home%20lander.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Homelander",
+        "Alpha"
+      ]
+    },
+    {
+      "id": "alpha_igris_2",
+      "name": "Alpha",
+      "category": "Igris",
+      "series": "Igris",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMW4AONT-DRSEtianzJuwLXdEJ3thWUybatz7LHab8yu_BUQ0UNPXwNU&s=10",
+      "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Igris",
+        "Alpha"
+      ]
+    },
+    {
+      "id": "balmond_bigsmoke",
+      "name": "Balmond",
+      "category": "Big Smoke",
+      "series": "Big Smoke",
+      "image": "https://i.pinimg.com/1200x/e2/5e/fe/e25efeabd2c47412d568fd0a018077e9.jpg",
+      "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/balmond%20big%20smoke.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Big Smoke",
+        "Balmond"
+      ]
+    },
+    {
+      "id": "argus_hidan",
+      "name": "Argus",
+      "category": "Hidan",
+      "series": "Hidan",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20hidan.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20hidan.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Hidan",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_kokushibo_2",
+      "name": "Argus",
+      "category": "Kokushibo",
+      "series": "Kokushibo",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kukoshibo.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kukoshibo.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kokushibo",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_kenpatchi_2",
+      "name": "Argus",
+      "category": "Kenpatchi",
+      "series": "Kenpatchi",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kenpatchi.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kenpachi.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kenpatchi",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_ryuyamada",
+      "name": "Argus",
+      "category": "Ryu Yamada",
+      "series": "Ryu Yamada",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20ryu%20yamada.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20ryu%20yamada.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Ryu Yamada",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_arogante_2",
+      "name": "Argus",
+      "category": "Arogante",
+      "series": "Arogante",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/argus%20arogante.jpeg",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20arogante.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Arogante",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_baraggan_2",
+      "name": "Argus",
+      "category": "Baraggan",
+      "series": "Baraggan",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/argus%20baraggan.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20baraggan.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Baraggan",
+        "Argus"
+      ]
+    },
+    {
+      "id": "cecilion_heino_2",
+      "name": "Cecilion",
+      "category": "Heino",
+      "series": "Heino",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/cecilion.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/cecilion%20heino.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Heino",
+        "Cecilion"
+      ]
+    },
+    {
+      "id": "cecilion_shino_2",
+      "name": "Cecilion",
+      "category": "Shino",
+      "series": "Shino",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cecilion%20shino.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cecillion%20shino.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Shino",
+        "Cecilion"
+      ]
+    },
+    {
+      "id": "alucard_shanks_2",
+      "name": "Alucard",
+      "category": "Shanks",
+      "series": "Shanks",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/alu%20shanks.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/alu%20shanks.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Shanks",
+        "Alucard"
+      ]
+    },
+    {
+      "id": "miya_steve",
+      "name": "Miya",
+      "category": "Steve",
+      "series": "Steve",
+      "image": "https://raw.githubusercontent.com/missnapokita/aug-squad/refs/heads/main/Picsart_26-03-17_11-21-49-831.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Steve",
+        "Alucard"
+      ]
+    },
+    {
+      "id": "belerick_irongolem",
+      "name": "Belerick",
+      "category": "Iron Golem",
+      "series": "Iron Golem",
+      "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Iron Golem",
+        "Belerick"
+      ]
+    },
+    {
+      "id": "chou_michaeljackson",
+      "name": "Chou",
+      "category": "Michael Jackson",
+      "series": "Michael Jackson",
+      "image": "https://github.com/missnapokita/bagong-custom-skins/blob/main/michael-jackson-portrait-v0-6544v66elo6g1.png?raw=true",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/chou%20mj.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Michael Jackson",
+        "Chou"
+      ]
+    },
+    {
+      "id": "chou_mcdonalds",
+      "name": "Chou",
+      "category": "Mc Donald's",
+      "series": "Mc Donald's",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600004.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mc Donald's",
+        "Chou"
+      ]
+    },
+    {
+      "id": "chou_crimsontalisman",
+      "name": "Chou",
+      "category": "Crimson Talisman",
+      "series": "Crimson Talisman",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600003.png",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600003.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Crimson Talisman",
+        "Chou"
+      ]
+    },
+    {
+      "id": "chou_northernfist",
+      "name": "Chou",
+      "category": "Northern Fist",
+      "series": "Northern Fist",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600002.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600002.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Northern Fist",
+        "Chou"
+      ]
+    },
+    {
+      "id": "chou_mario_2",
+      "name": "Chou",
+      "category": "Mario",
+      "series": "Mario",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mario",
+        "Chou"
+      ]
+    },
+    {
+      "id": "chou_iq_2",
+      "name": "Chou",
+      "category": "IQ",
+      "series": "IQ",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/chou.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/chou%20iq.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "IQ",
+        "Chou"
+      ]
+    },
+    {
+      "id": "lapulapu_auroragaming",
+      "name": "Lapu-Lapu",
+      "category": "Aurora Gaming",
+      "series": "Aurora Gaming",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/3700001.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/37/3700001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Aurora Gaming",
+        "Lapu-Lapu"
+      ]
+    },
+    {
+      "id": "popolandkupa_stevedog",
+      "name": "Popol and Kupa",
+      "category": "Steve & Dog",
+      "series": "Steve & Dog",
+      "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+      "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Steve & Dog",
+        "Popol and Kupa"
+      ]
+    },
+    {
+      "id": "khufra_jake",
+      "name": "Khufra",
+      "category": "Jake",
+      "series": "Jake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Hb0oX51Vu5zoxuyC94cFW8mcR2OdtH5CBgLzDSw7eecCbQb4T0-XZSI&s=10",
+      "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/khufra%20jake.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Jake",
+        "Khufra"
+      ]
+    },
+    {
+      "id": "yin_oggy_2",
+      "name": "Yin",
+      "category": "Oggy",
+      "series": "Oggy",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20oggy.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20oggy.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Oggy",
+        "Yin"
+      ]
+    },
+    {
+      "id": "yin_diavolo_2",
+      "name": "Yin",
+      "category": "Diavolo",
+      "series": "Diavolo",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20diavolo.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20diavolo.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Diavolo",
+        "Yin"
+      ]
+    },
+    {
+      "id": "yin_obito_2",
+      "name": "Yin",
+      "category": "Obito",
+      "series": "Obito",
+      "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20obito.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20obito.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Obito",
+        "Yin"
+      ]
+    },
+    {
+      "id": "yin_sukuna_2",
+      "name": "Yin",
+      "category": "Sukuna",
+      "series": "Sukuna",
+      "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/yin%20sukuna.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/yin%20sukuna.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Sukuna",
+        "Yin"
+      ]
+    },
+    {
+      "id": "yin_erenhok",
+      "name": "Yin",
+      "category": "Eren HOK",
+      "series": "Eren HOK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24OQkSNa6J9sBn9pLlZtv5Wa8wObrOWYcgNm4vftwHOf-jKmSfmaaviFE&s=10",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/yin%20eren.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Eren HOK",
+        "Yin"
+      ]
+    },
+    {
+      "id": "angela_dyadia_2",
+      "name": "Angela",
+      "category": "Dyadia",
+      "series": "Dyadia",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/angela.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/angela%20dyadia.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Dyadia",
+        "Angela"
+      ]
+    },
+    {
+      "id": "claude_marcopolo",
+      "name": "Claude",
+      "category": "Marco Polo",
+      "series": "Marco Polo",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/claude.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/claude%20marco%20polo.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Marco Polo",
+        "Claude"
+      ]
+    },
+    {
+      "id": "fanny_mikasahok",
+      "name": "Fanny",
+      "category": "Mikasa HOK",
+      "series": "Mikasa HOK",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/fanny.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/fanny%20mikasa.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mikasa HOK",
+        "Fanny"
+      ]
+    },
+    {
+      "id": "franco_kui_2",
+      "name": "Franco",
+      "category": "Kui",
+      "series": "Kui",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/franco.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/franco%20kui.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Kui",
+        "Franco"
+      ]
+    },
+    {
+      "id": "karina_arkle_2",
+      "name": "Karina",
+      "category": "Arkle",
+      "series": "Arkle",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/karina.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/karina%20arkle.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Arkle",
+        "Karina"
+      ]
+    },
+    {
+      "id": "julian_fushigurohok",
+      "name": "Julian",
+      "category": "Fushiguro HOK",
+      "series": "Fushiguro HOK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhMkwo203KKiDkLO1nyZBYD1mEPdG5RZMiau9UOKjsF3iLDg-dAFa29Y&s=10",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/julian%20hok%20fushiguro.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Fushiguro HOK",
+        "Julian"
+      ]
+    },
+    {
+      "id": "lancelot_charlotte_2",
+      "name": "Lancelot",
+      "category": "Charlotte",
+      "series": "Charlotte",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/lance.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/lance%20charlotte.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Charlotte",
+        "Lancelot"
+      ]
+    },
+    {
+      "id": "layla_ladysun",
+      "name": "Layla",
+      "category": "Lady Sun",
+      "series": "Lady Sun",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/layla.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/layla%20lady%20sun.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Lady Sun",
+        "Layla"
+      ]
+    },
+    {
+      "id": "ling_byakuya_2",
+      "name": "Ling",
+      "category": "Byakuya",
+      "series": "Byakuya",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/ling.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/ling%20byakuya.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Byakuya",
+        "Ling"
+      ]
+    },
+    {
+      "id": "odette_dolia_2",
+      "name": "Odette",
+      "category": "Dolia",
+      "series": "Dolia",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/odette.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/odette%20dolia.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Dolia",
+        "Odette"
+      ]
+    },
+    {
+      "id": "roger_zhangfei",
+      "name": "Roger",
+      "category": "Zhang Fei",
+      "series": "Zhang Fei",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/roger.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/roger%20zhang%20fei.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Zhang Fei",
+        "Roger"
+      ]
+    },
+    {
+      "id": "ruby_mulan_2",
+      "name": "Ruby",
+      "category": "Mulan",
+      "series": "Mulan",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/ruby.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/ruby%20mulan.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mulan",
+        "Ruby"
+      ]
+    },
+    {
+      "id": "silvanna_ying_2",
+      "name": "Silvanna",
+      "category": "Ying",
+      "series": "Ying",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/silvana.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/silvana%20ying.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Ying",
+        "Silvanna"
+      ]
+    },
+    {
+      "id": "terizla_biron_2",
+      "name": "Terizla",
+      "category": "Biron",
+      "series": "Biron",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/terizla.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/terizla%20biron.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Biron",
+        "Terizla"
+      ]
+    },
+    {
+      "id": "uranus_mozi_2",
+      "name": "Uranus",
+      "category": "Mozi",
+      "series": "Mozi",
+      "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/uranos.png",
+      "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/uranos%20mozzy.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mozi",
+        "Uranus"
+      ]
+    },
+    {
       "id": "Michael Jackson V1",
       "name": "Chou",
       "category": "Michael Jackson v1 (new) ",
