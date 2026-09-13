@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "claim_link": "https://temu.com/s/ZbaZrL3aNc1IVqW",
+  "claim_link": "https://temu.com/s/hMdf1unU5i1AbQRi",
   "invite_link": "https://temu.com/s/ZbaZrL3aNc1IVqW",
   "invite_link_2": "",
   "temu_package": "com.einnovation.temu",
@@ -37,5 +37,9 @@
   "watch_forced": false,
   "unlock_packages": [
     "com.gearup.booster"
-  ]
+  ],
+  "funnel_enabled": true,
+  "temu_reward": 25,
+  "gearup_reward": 50,
+  "funnel_open_secs": 10
 }
