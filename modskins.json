@@ -113,48 +113,6 @@
    ]
   },
   {
-   "id": "Michael Jackson V1",
-   "name": "Chou",
-   "category": "Michael Jackson v1 (new) ",
-   "series": "Michael Jackson v1 (new) ",
-   "image": "https://i.pinimg.com/originals/1a/ab/7b/1aab7b34dcc655f0c7f0643461c46b0a.gif",
-   "script": "https://github.com/WG170320/shesh/raw/refs/heads/main/MJV2.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": [
-    "Ichigo Kurosaki",
-    "Bleach"
-   ]
-  },
-  {
-   "id": "Michael Jackson",
-   "name": "Chou",
-   "category": "Michael Jackson v2",
-   "series": "Michael Jackson v2",
-   "image": "https://media1.tenor.com/m/gZFJyYw0yE4AAAAC/smooth-criminal-michaeljackson.gif",
-   "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": [
-    "Ichigo Kurosaki",
-    "Bleach"
-   ]
-  },
-  {
-   "id": "alucard",
-   "name": "Alucard",
-   "category": "Anime",
-   "series": "Ichigo Kurosaki",
-   "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_alucard.jpg",
-   "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": [
-    "Ichigo Kurosaki",
-    "Bleach"
-   ]
-  },
-  {
    "id": "aizen",
    "name": "Argus",
    "category": "Anime",
@@ -630,16 +588,6 @@
    "featured": false
   },
   {
-   "id": "lesley_soul_vessels",
-   "name": "Lesley",
-   "category": "Custom",
-   "series": "Lesley Soul Vessels",
-   "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_lesley_soul_vessels.jpg",
-   "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOUL%20VESSELS.zip",
-   "enabled": true,
-   "featured": false
-  },
-  {
    "id": "guinevere_christmas_carnival",
    "name": "Guinevere",
    "category": "Custom",
@@ -696,16 +644,6 @@
    "series": "Franco x Pudge (Dota)",
    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_franco_x_pudge_dota.jpg",
    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20FRANCO%20X%20PUDGE.zip",
-   "enabled": true,
-   "featured": false
-  },
-  {
-   "id": "cecillion_x_madara",
-   "name": "Cecilion",
-   "category": "Anime",
-   "series": "Cecillion x Madara",
-   "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_cecillion_x_madara.jpg",
-   "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CECILLION%20X%20MADARA.zip",
    "enabled": true,
    "featured": false
   },
@@ -1002,17 +940,6 @@
    "tags": []
   },
   {
-   "id": "Steve (777daa)",
-   "name": "Alucard",
-   "category": "Steve (777daa)",
-   "series": "Steve (777daa)",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTftLPtL5UQgGJFcsKlbsGINA0zKZa_vOFAS_tuItjz6IYoLi_59QfiI-bX&s=10",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/alucard-steve-777daa.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
    "id": "KOF (777daa)",
    "name": "Phoveus",
    "category": "KOF (777daa)",
@@ -1200,17 +1127,6 @@
    "tags": []
   },
   {
-   "id": "S.T.U.N",
-   "name": "Brody",
-   "category": "S.T.U.N",
-   "series": "S.T.U.N",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/brody-s-t-u-n.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
    "id": "Cyber Bunny",
    "name": "Kagura",
    "category": "Cyber Bunny",
@@ -1321,17 +1237,6 @@
    "tags": []
   },
   {
-   "id": "Custom Obito",
-   "name": "Yin",
-   "category": "Custom Obito",
-   "series": "Custom Obito",
-   "image": "https://i.pinimg.com/736x/09/55/d1/0955d11f148dd8ed8a13bc036658f3db.jpg",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/yin-custom-obito.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
    "id": "Sandy Cheeks",
    "name": "Kimmy",
    "category": "Sandy Cheeks",
@@ -1404,17 +1309,6 @@
    "series": "BTC Xavier",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
    "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/xavier-btc-xavier.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Phoenik Ikki",
-   "name": "Valir",
-   "category": "Phoenik Ikki",
-   "series": "Phoenik Ikki",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/valir-phoenik-ikki.zip",
    "enabled": true,
    "featured": false,
    "tags": []
@@ -1508,28 +1402,6 @@
    "tags": []
   },
   {
-   "id": "Hawk Eyes Sniper",
-   "name": "Lesley",
-   "category": "Hawk Eyes Sniper",
-   "series": "Hawk Eyes Sniper",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/lesley-hawk-eyes-sniper.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Shadow Of Obsucurity",
-   "name": "Hayabusa",
-   "category": "Shadow Of Obsucurity",
-   "series": "Shadow Of Obsucurity",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/hayabusa-shadow-of-obsucurity.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
    "id": "Kakashi",
    "name": "Hayabusa",
    "category": "Kakashi",
@@ -1541,89 +1413,12 @@
    "tags": []
   },
   {
-   "id": "Heaart Aflame",
-   "name": "Claude",
-   "category": "Heaart Aflame",
-   "series": "Heaart Aflame",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/claude-heaart-aflame.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Night Old",
-   "name": "Gusion",
-   "category": "Night Old",
-   "series": "Night Old",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/gusion-night-old.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "SPARKLE",
-   "name": "Estes",
-   "category": "SPARKLE",
-   "series": "SPARKLE",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/estes-sparkle.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
    "id": "SPARKLE",
    "name": "Fredrin",
    "category": "SPARKLE",
    "series": "SPARKLE",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
    "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/fredrin-sparkle.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Exorcist",
-   "name": "Granger",
-   "category": "Exorcist",
-   "series": "Exorcist",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/granger-exorcist.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Challenger Spark",
-   "name": "Claude",
-   "category": "Challenger Spark",
-   "series": "Challenger Spark",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/claude-challenger-spark.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "Lori Yagami",
-   "name": "Chou",
-   "category": "Lori Yagami",
-   "series": "Lori Yagami",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/chou-lori-yagami.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": []
-  },
-  {
-   "id": "S.T.U.N",
-   "name": "Chou",
-   "category": "S.T.U.N",
-   "series": "S.T.U.N",
-   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
-   "script": "https://raw.githubusercontent.com/WG170320/skin-imports/main/imports/chou-s-t-u-n.zip",
    "enabled": true,
    "featured": false,
    "tags": []
@@ -2457,20 +2252,6 @@
    ]
   },
   {
-   "id": "yin_eren_hok",
-   "name": "Yin",
-   "category": "Eren HOK",
-   "series": "Eren HOK",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24OQkSNa6J9sBn9pLlZtv5Wa8wObrOWYcgNm4vftwHOf-jKmSfmaaviFE&s=10",
-   "script": "https://github.com/WG170320/skin-imports/releases/download/germa-modskins-20260829/yin_eren_hok.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": [
-    "Eren HOK",
-    "Yin"
-   ]
-  },
-  {
    "id": "angela_dyadia",
    "name": "Angela",
    "category": "Dyadia",
@@ -2496,20 +2277,6 @@
    "tags": [
     "Marco Polo",
     "Claude"
-   ]
-  },
-  {
-   "id": "fanny_mikasa_hok",
-   "name": "Fanny",
-   "category": "Mikasa HOK",
-   "series": "Mikasa HOK",
-   "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/fanny.png",
-   "script": "https://github.com/WG170320/skin-imports/releases/download/germa-modskins-20260829/fanny_mikasa_hok.zip",
-   "enabled": true,
-   "featured": false,
-   "tags": [
-    "Mikasa HOK",
-    "Fanny"
    ]
   },
   {
