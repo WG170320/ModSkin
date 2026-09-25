@@ -79,7 +79,7 @@
      "id": "aamon_004",
      "skin_name": "Soul Reaver",
      "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/aamon.png",
-     "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/aamon_collector.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/aamon_soul_reaver.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -482,7 +482,7 @@
      "id": "aldous_006",
      "skin_name": "Mistbender",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest?cb=20240114131253",
-     "script": "https://github.com/tin0521/neww/raw/main/aldous_mistbender.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/aldous_mistbender.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -1467,7 +1467,7 @@
      "id": "angela_006",
      "skin_name": "Floral Elf",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
-     "script": "https://github.com/tin0521/supp/raw/main/angela_collector.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/angela_floral_elf.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -1526,7 +1526,7 @@
      "id": "angela_008",
      "skin_name": "Cyber Cherubin",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
-     "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/angela_def_aspirant.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/angela_cyber_cherubin.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -2491,7 +2491,7 @@
      "id": "badang_003",
      "skin_name": "Fist of Zen",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-     "script": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/badang_collectorR.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/badang_fist_of_zen.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -2867,7 +2867,7 @@
      "id": "balmond_008",
      "skin_name": "Vulcan Lionheart",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/balmond-new-collector.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/Balmond_razor_edge.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/balmond_vulcan_lionheart.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -3825,7 +3825,7 @@
      "id": "benedetta_002",
      "skin_name": "Vessel of Pride",
      "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
-     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/benedetta_vessel_of_pride.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -3884,7 +3884,7 @@
      "id": "benedetta_004",
      "skin_name": "Panigale V4S Rider",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_ducati.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/benedetta_panigale_v4s_rider.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -4032,34 +4032,6 @@
    ]
   },
   {
-   "id": "boom",
-   "name": "Boom",
-   "category": "assassin",
-   "enabled": true,
-   "skins": [
-    {
-     "id": "boom_001",
-     "name": "",
-     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest/thumbnail/width/360/height/450?cb=20250917080630",
-     "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [],
-     "skin_name": "Thanuz Kungfuassets"
-    },
-    {
-     "id": "boom_002",
-     "name": "",
-     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
-     "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [],
-     "skin_name": "Chou Dragon2017"
-    }
-   ]
-  },
-  {
    "id": "brody",
    "name": "Brody",
    "category": "marksman",
@@ -4098,7 +4070,7 @@
      "id": "brody_002",
      "skin_name": "Ore-chemist",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
-     "script": "https://github.com/tin0521/mm/raw/main/brody_collector.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/brody_ore_chemist.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -4254,7 +4226,7 @@
      "id": "brody_007",
      "skin_name": "Neobeast Brody",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest?cb=20250320125011",
-     "script": "https://github.com/tin0521/mm/raw/main/brody_neobeast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/brody_neobeast_brody.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -4742,7 +4714,7 @@
      "id": "cecilion_002",
      "skin_name": "Vessel of Gluttony",
      "image": "https://github.com/tin0521/January_2026/blob/main/cecilion%20soul.jpg?raw=true",
-     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/cecilion_vessel_of_gluttony.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -4891,7 +4863,7 @@
      "id": "cecilion_007",
      "skin_name": "Hisoka",
      "image": "https://i.imgur.com/K2zTrYN.png",
-     "script": "https://github.com/tin0521/mge/raw/main/cecilion_hisoka.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/cecilion_hisoka.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -4967,7 +4939,7 @@
      "id": "chang_e_002",
      "skin_name": "Tech Tensai",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
-     "script": "https://github.com/Mexica23/April_2026_2/raw/refs/heads/main/change_def_aspirant.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/chang_e_tech_tensai.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -5316,7 +5288,7 @@
      "id": "chou_003",
      "skin_name": "Iori Yagami",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
-     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/chou_kof.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/chou_iori_yagami.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -6310,7 +6282,7 @@
      "id": "clint_011",
      "skin_name": "Vessel of Ruin",
      "image": "https://github.com/tin0521/dec2025/raw/main/clint_vessels.png",
-     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/clint_vessel_of_ruin.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -6340,7 +6312,7 @@
      "id": "clint_013",
      "skin_name": "Crimson Blast",
      "image": "https://liquipedia.net/commons/images/thumb/5/57/Clint_Crimson_Blast_Skin.jpg/475px-Clint_Crimson_Blast_Skin.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_4.0/UPCOMING%20SKINS/clint-crimson-blast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/clint_crimson_blast.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -6839,7 +6811,7 @@
      "id": "dyrroth_006",
      "skin_name": "Gon",
      "image": "https://i.imgur.com/aSyt8Uk.png",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/dyroth_gon.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/dyrroth_gon.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -6868,7 +6840,7 @@
      "id": "dyrroth_008",
      "skin_name": "Guile",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/dyroth-guile-outfit-1.jpg",
-     "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/dyroth-guile-outfit-1.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/dyrroth_guile.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -7819,7 +7791,7 @@
     {
      "id": "fanny_005",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/fanny_mikasa.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -7873,7 +7845,7 @@
     {
      "id": "fanny_008",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/fanny_blade_of_kibou.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -8287,7 +8259,7 @@
      "id": "floryn_008",
      "skin_name": "Herald of Autumn",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Floryn-Herald.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/floryn-eternal-season.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/floryn_herald_of_autumn.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -8611,7 +8583,7 @@
      "id": "fredrinn_003",
      "skin_name": "Neobeast Fredrinn",
      "image": "https://liquipedia.net/commons/images/thumb/5/57/Fredrinn_Neobeast_Fredrinn_Skin.jpg/475px-Fredrinn_Neobeast_Fredrinn_Skin.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-neobeast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/fredrinn_neobeast_fredrinn.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -8636,132 +8608,6 @@
      "name": "",
      "featured": false,
      "tags": []
-    }
-   ]
-  },
-  {
-   "id": "fredrin",
-   "name": "Fredrin",
-   "category": "fighter",
-   "enabled": true,
-   "skins": [
-    {
-     "id": "fredrin_001",
-     "skin_name": "Backup",
-     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_backup.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "backup",
-       "name": "backup",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fredrin",
-       "name": "fredrin",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fighter",
-       "name": "fighter",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
-    },
-    {
-     "id": "fredrin_002",
-     "skin_name": "Neobeast Fredrinn",
-     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
-     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/fredrin_neoBeast.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "neobeast",
-       "name": "neobeast",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fredrin",
-       "name": "fredrin",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fighter",
-       "name": "fighter",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
-    },
-    {
-     "id": "fredrin_003",
-     "skin_name": "SPARKLE Fredrinn",
-     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest?cb=20240411075808",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_sparkle.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "sparkle",
-       "name": "Sparkle",
-       "file": "Sparkle Skin Tag.png",
-       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Sparkle_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-       "type": "series"
-      },
-      {
-       "id": "fredrin",
-       "name": "fredrin",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fighter",
-       "name": "fighter",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
-    },
-    {
-     "id": "fredrin_004",
-     "skin_name": "Royal Marshall",
-     "image": "https://github.com/tin0521/dec2025/raw/main/fredrinn_stars.png",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_starlight.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "starlight",
-       "name": "Starlight",
-       "file": "Starlight Skin Tag.png",
-       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-       "type": "rarity"
-      },
-      {
-       "id": "fredrin",
-       "name": "fredrin",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fighter",
-       "name": "fighter",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
     }
    ]
   },
@@ -10260,7 +10106,7 @@
      "id": "guinevere_004",
      "skin_name": "Athena Asamiya",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
-     "script": "https://github.com/tin0521/ff/raw/main/guinevere_kof.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/guinevere_athena_asamiya.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -10498,7 +10344,7 @@
      "id": "guinevere_013",
      "skin_name": "Chun Li 1",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/guin-chun-li-outfit-1.jpg",
-     "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chun-li-outfit-1.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/guinevere_chun_li_1.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -10508,7 +10354,7 @@
      "id": "guinevere_014",
      "skin_name": "Chun Li 2",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/guin-chun-li-outfit-2.jpg",
-     "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chunli-outfit-2.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/guinevere_chun_li_2.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -10555,7 +10401,7 @@
      "id": "gusion_002",
      "skin_name": "Minato",
      "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
-     "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/gusion_minato.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -10673,7 +10519,7 @@
      "id": "gusion_006",
      "skin_name": "K'",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_kof.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/gusion_k.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -11047,7 +10893,7 @@
      "id": "hanabi_006",
      "skin_name": "Vessel of Rage",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest?cb=20240619172748",
-     "script": "https://github.com/tin0521/mm/raw/main/hanabi_soulvessel.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/hanabi_vessel_of_rage.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -11407,7 +11253,7 @@
      "id": "harith_005",
      "skin_name": "Killua",
      "image": "https://i.imgur.com/J9fpoZr.png",
-     "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/harith_def_hunter.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/harith_killua.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -11849,7 +11695,7 @@
      "id": "hayabusa_002",
      "skin_name": "Shura",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shura.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/hayabusa_shura.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -11973,7 +11819,7 @@
      "id": "hayabusa_006",
      "skin_name": "Kakashi Hatake",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_kakashi.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/hayabusa_kakashi_hatake.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -12318,7 +12164,7 @@
      "id": "helcurt_007",
      "skin_name": "Kaiju of the Deep",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/featured/helcurt-kaiju.jpg",
-     "script": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/helcurt-collector-titans.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/helcurt_kaiju_of_the_deep.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -12706,7 +12552,7 @@
      "id": "irithel_003",
      "skin_name": "Monster SP Rider",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
-     "script": "https://github.com/tin0521/mm/raw/main/irithel_ducati.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/irithel_monster_sp_rider.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -12923,7 +12769,7 @@
      "id": "ixia_003",
      "skin_name": "Invoker's Command",
      "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/ixia%20portrait.png",
-     "script": "https://github.com/tin0521/mm/raw/main/ixia_metrozero.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/ixia_invoker_s_command.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -13626,7 +13472,7 @@
      "id": "julian_002",
      "skin_name": "Itachi",
      "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
-     "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/julian_itachi.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -13655,7 +13501,7 @@
      "id": "julian_003",
      "skin_name": "Megumi Fushiguro",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
-     "script": "https://github.com/tin0521/ff/raw/main/julian_jujutsu.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/julian_megumi_fushiguro.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -13714,7 +13560,7 @@
      "id": "julian_005",
      "skin_name": "Kurapika of Kurta",
      "image": "https://i.imgur.com/5NvLqsp.jpeg",
-     "script": "https://github.com/tin0521/ff/raw/main/julian_kurapika.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/julian_kurapika_of_kurta.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -14495,7 +14341,7 @@
      "id": "kalea_002",
      "skin_name": "Sakura Haruno",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
-     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/kalea_def_sakura.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/kalea_sakura_haruno.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -15793,7 +15639,7 @@
      "id": "lancelot_010",
      "skin_name": "Guardian of the Shrine",
      "image": "https://i.pinimg.com/736x/76/9e/9c/769e9c5f7294e060050fd62f7e1f059e.jpg",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_guardian.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/lancelot_guardian_of_the_shrine.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -16230,7 +16076,7 @@
      "id": "layla_007",
      "skin_name": "The Beacon",
      "image": "https://github.com/tin0521/January_2026/blob/main/layla%20legend.jpg?raw=true",
-     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/layla_def_legend.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/layla_the_beacon.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -16596,7 +16442,7 @@
      "id": "leomord_008",
      "skin_name": "Diavel V4 Rider",
      "image": "https://pbs.twimg.com/media/GWtLCzRXMAAW6BS?format=jpg&name=large",
-     "script": "https://github.com/tin0521/ff/raw/main/leomord_ducati.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/leomord_diavel_v4_rider.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -16733,7 +16579,7 @@
      "id": "lesley_003",
      "skin_name": "Deadeye Spectre",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest?cb=20240130065924",
-     "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_aspirant.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/lesley_deadeye_spectre.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -17242,7 +17088,7 @@
      "id": "ling_009",
      "skin_name": "Neobeast Ling",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb=20250320125043",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_neobeast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/ling_neobeast_ling.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -17484,7 +17330,7 @@
      "id": "lukas_002",
      "skin_name": "Naruto",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
-     "script": "https://github.com/tin0521/ff/raw/main/lukas_naruto.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/lukas_naruto.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -18091,7 +17937,7 @@
      "id": "lylia_004",
      "skin_name": "Neobeast Lylia",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
-     "script": "https://github.com/tin0521/mge/raw/main/lylia_neobeast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/lylia_neobeast_lylia.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -18217,7 +18063,7 @@
      "id": "martis_002",
      "skin_name": "Levi",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_levi.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/martis_levi.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -18443,7 +18289,7 @@
      "id": "masha_002",
      "skin_name": "Mai Shiranui",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest?cb=20240430024127",
-     "script": "https://github.com/tin0521/ff/raw/main/masha_kof.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/masha_mai_shiranui.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -19978,7 +19824,7 @@
      "id": "nana_009",
      "skin_name": "Mistbender",
      "image": "https://liquipedia.net/commons/images/thumb/1/16/Nana_Mistbender_Nana_Skin.jpg/475px-Nana_Mistbender_Nana_Skin.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/nana_mistbender.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/nana_mistbender.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -20556,7 +20402,7 @@
      "id": "nolan_004",
      "skin_name": "The Navigator",
      "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
-     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_thenavigator.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/nolan_the_navigator.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -21101,7 +20947,7 @@
      "id": "paquito_002",
      "skin_name": "Blazing Tiger",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_collector.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/paquito_blazing_tiger.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -21131,7 +20977,7 @@
      "id": "paquito_003",
      "skin_name": "Terry Bogard",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest?cb=20240430024904",
-     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_kof.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/paquito_terry_bogard.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -21546,7 +21392,7 @@
      "id": "pharsa_007",
      "skin_name": "Neobeast Pharsa",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
-     "script": "https://github.com/tin0521/mge/raw/main/pharsa_neobeast.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/pharsa_neobeast_pharsa.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -22379,7 +22225,7 @@
      "id": "roger_013",
      "skin_name": "Invoker Restraint",
      "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Roger-Invoker-Restraint.jpg",
-     "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPDATED/rogers-invokers-restraint.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/roger_invoker_restraint.zip",
      "enabled": true,
      "name": "",
      "featured": false,
@@ -23096,7 +22942,7 @@
      "id": "selena_010",
      "skin_name": "Curse of Cinders",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
-     "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_zenith.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/selena_curse_of_cinders.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -23725,7 +23571,7 @@
      "id": "suyou_002",
      "skin_name": "Sasuke",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest?cb=20250411101450",
-     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_sasuke.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/suyou_sasuke.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -24017,7 +23863,7 @@
      "id": "thamuz_004",
      "skin_name": "The Annihilator",
      "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
-     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/thamuz_def_nexus.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/thamuz_the_annihilator.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -25221,7 +25067,7 @@
      "id": "vexana_002",
      "skin_name": "Twisted Fairytale",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
-     "script": "https://github.com/tin0521/mge/raw/main/vexana_zenith.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/vexana_twisted_fairytale.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -25702,7 +25548,7 @@
      "id": "x_borg_002",
      "skin_name": "Tesla Maniac",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb=20220525170000",
-     "script": "https://github.com/tin0521/ff/raw/main/xborg_11.11.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/x_borg_tesla_maniac.zip",
      "featured": false,
      "enabled": true,
      "tags": [
@@ -26072,7 +25918,7 @@
      "id": "yi_sun_shin_002",
      "skin_name": "Lone Destructor",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_def_collector.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/yi_sun_shin_lone_destructor.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -26289,7 +26135,7 @@
      "id": "yin_002",
      "skin_name": "Eren",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
-     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_eren.zip",
+     "script": "https://github.com/WG170320/Resources-/releases/download/vemozky-updates-2026-09/yin_eren.zip",
      "featured": true,
      "enabled": true,
      "tags": [
@@ -27425,6 +27271,68 @@
       {
        "id": "fighter",
        "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "hirara",
+   "name": "Hirara",
+   "category": "assassin",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "hirara_001",
+     "skin_name": "Fallen Scarlet",
+     "image": "https://github.com/WG170320/Resources-/raw/main/IMG_hero_hirara.jpg",
+     "script": "",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "hirara",
+       "name": "Hirara",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "marcel",
+   "name": "Marcel",
+   "category": "support",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "marcel_001",
+     "skin_name": "Soul Photographer",
+     "image": "https://github.com/WG170320/Resources-/raw/main/IMG_hero_marcel.jpg",
+     "script": "",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "marcel",
+       "name": "Marcel",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "support",
+       "name": "support",
        "icon": "",
        "file": ""
       }
