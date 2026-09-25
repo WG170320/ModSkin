@@ -2182,6 +2182,20 @@
    ]
   },
   {
+   "id": "chou_yellow_vanguard",
+   "name": "Chou",
+   "category": "Yellow Vanguard",
+   "series": "Yellow Vanguard",
+   "image": "https://raw.githubusercontent.com/WG170320/Resources-/main/raw/main/IMG_chou_yellow_vanguard.png",
+   "script": "https://github.com/WG170320/Resources-/releases/download/chou-custom-2026-09/chou_yellow_vanguard.zip",
+   "enabled": true,
+   "featured": true,
+   "tags": [
+    "Yellow Vanguard",
+    "Chou"
+   ]
+  },
+  {
    "id": "popol_kupa_steve_dog",
    "name": "Popol and Kupa",
    "category": "Steve & Dog",
