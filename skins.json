@@ -8084,36 +8084,6 @@
       }
      ],
      "name": ""
-    },
-    {
-     "id": "eudora_008",
-     "skin_name": "Emerald Enchantress",
-     "image": "https://github.com/tin0521/mmimg/raw/main/img_20241024_205541477.png",
-     "script": "https://github.com/tin0521/mge/raw/main/eudora_emerald.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "luckybox",
-       "name": "Luckybox",
-       "file": "Luckybox Skin Tag.png",
-       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-       "type": "rarity"
-      },
-      {
-       "id": "eudora",
-       "name": "eudora",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "mage",
-       "name": "mage",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
     }
    ]
   },
@@ -26912,36 +26882,6 @@
        "name": "mcgg",
        "icon": "",
        "file": ""
-      },
-      {
-       "id": "x_borg",
-       "name": "x borg",
-       "icon": "",
-       "file": ""
-      },
-      {
-       "id": "fighter",
-       "name": "fighter",
-       "icon": "",
-       "file": ""
-      }
-     ],
-     "name": ""
-    },
-    {
-     "id": "x_borg_007",
-     "skin_name": "Graffiti Fashion",
-     "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_154235172.png",
-     "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
-     "featured": false,
-     "enabled": true,
-     "tags": [
-      {
-       "id": "starlight",
-       "name": "Starlight",
-       "file": "Starlight Skin Tag.png",
-       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-       "type": "rarity"
       },
       {
        "id": "x_borg",
