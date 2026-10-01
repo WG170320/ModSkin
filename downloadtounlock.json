@@ -41,5 +41,11 @@
   "funnel_enabled": true,
   "temu_reward": 25,
   "gearup_reward": 50,
-  "funnel_open_secs": 10
+  "funnel_open_secs": 10,
+  "recheck_enabled": true,
+  "recheck_link": "https://temu.com/s/6aLdJH65921HE",
+  "recheck_partner": "Temu",
+  "recheck_hours": 1,
+  "recheck_dwell_secs": 10,
+  "recheck_owner": false
 }
