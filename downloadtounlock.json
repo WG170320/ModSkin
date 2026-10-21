@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "claim_link": "https://temu.com/s/h3rJBqKFvB6tdoO3",
-  "invite_link": "https://temu.com/s/h3rJBqKFvB6tdoO3",
+  "claim_link": "https://temu.com/s/8qx9MinNgakaT",
+  "invite_link": "https://temu.com/s/8qx9MinNgakaT",
   "invite_link_2": "",
   "temu_package": "com.einnovation.temu",
   "wait_signup": 10,
@@ -43,7 +43,7 @@
   "gearup_reward": 50,
   "funnel_open_secs": 10,
   "recheck_enabled": true,
-  "recheck_link": "https://temu.com/s/h3rJBqKFvB6tdoO3",
+  "recheck_link": "https://temu.com/s/8qx9MinNgakaT",
   "recheck_partner": "Temu",
   "recheck_hours": 1,
   "recheck_dwell_secs": 10,
