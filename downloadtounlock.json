@@ -47,5 +47,14 @@
   "recheck_partner": "YouTube",
   "recheck_hours": 1,
   "recheck_dwell_secs": 10,
-  "recheck_owner": false
+  "recheck_owner": false,
+  "gate_name": "GearUp Booster",
+  "gate_package": "com.gearup.booster",
+  "gate_link": "https://gearup.onelink.me/Zmq0/zongxotic",
+  "gate_steps": [
+    "Install GearUp",
+    "Open GearUp & redeem code WARLITO"
+  ],
+  "gate_key": "gearup_gate",
+  "gate_skip_if_installed": false
 }
