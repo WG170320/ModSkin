@@ -45,7 +45,7 @@
   "recheck_enabled": true,
   "recheck_link": "https://youtu.be/LAbhwaKv1CA?si=XMVln-6q9eV9CG0D",
   "recheck_partner": "YouTube",
-  "recheck_hours": 1,
+  "recheck_hours": 0.5,
   "recheck_dwell_secs": 10,
   "recheck_owner": true,
   "gate_name": "GearUp Booster",
