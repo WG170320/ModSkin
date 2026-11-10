@@ -47,7 +47,7 @@
   "recheck_partner": "YouTube",
   "recheck_hours": 1,
   "recheck_dwell_secs": 10,
-  "recheck_owner": false,
+  "recheck_owner": true,
   "gate_name": "GearUp Booster",
   "gate_package": "com.gearup.booster",
   "gate_link": "https://gearup.onelink.me/Zmq0/zongxotic",
