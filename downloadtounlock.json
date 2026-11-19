@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "claim_link": "https://temu.com/s/QsrumB2O721CO1LI",
-  "invite_link": "https://temu.com/s/QsrumB2O721CO1LI",
+  "claim_link": "https://temu.com/s/JauIi2eUeg2zd",
+  "invite_link": "https://temu.com/s/JauIi2eUeg2zd",
   "invite_link_2": "",
   "temu_package": "com.einnovation.temu",
   "wait_signup": 10,
@@ -36,7 +36,7 @@
   "watch_relock_hours": 2,
   "watch_forced": false,
   "unlock_packages": [
-    "com.gearup.booster"
+    "com.einnovation.temu"
   ],
   "funnel_enabled": true,
   "temu_reward": 25,
@@ -48,13 +48,14 @@
   "recheck_hours": 0.5,
   "recheck_dwell_secs": 10,
   "recheck_owner": true,
-  "gate_name": "GearUp Booster",
-  "gate_package": "com.gearup.booster",
-  "gate_link": "https://gearup.onelink.me/Zmq0/zongxotic",
+  "gate_name": "Temu",
+  "gate_package": "com.einnovation.temu",
+  "gate_link": "https://temu.com/s/JauIi2eUeg2zd",
   "gate_steps": [
-    "Install GearUp",
-    "Open GearUp & redeem code WARLITO"
+    "Install Temu",
+    "Register on Temu",
+    "Open & accept invite"
   ],
-  "gate_key": "gearup_gate",
+  "gate_key": "temu_2611",
   "gate_skip_if_installed": false
 }
