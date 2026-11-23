@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "claim_link": "https://temu.com/s/JauIi2eUeg2zd",
-  "invite_link": "https://temu.com/s/JauIi2eUeg2zd",
+  "claim_link": "https://temu.com/s/fEaAnEeL9Mmw9q",
+  "invite_link": "https://temu.com/s/fEaAnEeL9Mmw9q",
   "invite_link_2": "",
   "temu_package": "com.einnovation.temu",
   "wait_signup": 10,
@@ -50,7 +50,7 @@
   "recheck_owner": true,
   "gate_name": "Temu",
   "gate_package": "com.einnovation.temu",
-  "gate_link": "https://temu.com/s/JauIi2eUeg2zd",
+  "gate_link": "https://temu.com/s/fEaAnEeL9Mmw9q",
   "gate_steps": [
     "Install Temu",
     "Register on Temu",
